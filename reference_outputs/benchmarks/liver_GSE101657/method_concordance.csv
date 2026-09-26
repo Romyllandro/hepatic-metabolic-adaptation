@@ -1,0 +1,7 @@
+objective,method,reference,spearman_mean_diff,directional_agreement_mean_diff,top100_jaccard
+BIOMASS_mm_1_no_glygln,eflux,three_layer,0.9999999999999998,1.0,1.0
+BIOMASS_mm_1_no_glygln,gimme,three_layer,-0.24664432444116627,0.8462157809983897,0.13636363636363635
+BIOMASS_mm_1_no_glygln,pfba,three_layer,-0.18811889586151503,0.8923778851315083,0.16279069767441862
+ATPM,eflux,three_layer,1.0,1.0,1.0
+ATPM,gimme,three_layer,0.016723966004398984,0.8985507246376812,0.16279069767441862
+ATPM,pfba,three_layer,0.09233719221954678,0.9253891572732152,0.2345679012345679

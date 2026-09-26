@@ -1,0 +1,20 @@
+metabolite_id,name,category,importance,matched_exchange_rows,summed_exchange_flux,direction_if_active,hepatic_rxn,hepatic_rxn_validated,included_in_portal_json,status,interpretation_note
+ac,acetate,SCFA,high,1,0.19935925217074332,export,EX_ac_e,True,True,included,Only report as active if exact exchange flux is detected; never infer from nac/lactate substring matches.
+ppa,propionate,SCFA,high,1,7.986934497002851e-08,export,EX_ppa_e,True,False,absent_or_below_threshold,
+but,butyrate,SCFA,high,0,0.0,none,EX_but_e,True,False,absent_or_below_threshold,Portal liver exposure is usually lower than acetate/propionate because colonocytes consume substantial butyrate.
+dca,deoxycholate / deoxycholic acid,bile_acid_secondary,medium,0,0.0,none,EX_dca_e,False,False,excluded_missing_hepatic_exchange,"Retained only when the exact exchange is present and, if --hepatic_model is supplied, the hepatic exchange exists."
+tdchola,taurodeoxycholate,bile_acid_conjugated,medium,0,0.0,none,EX_tdchola_e,True,False,absent_or_below_threshold,
+nh4,ammonia / ammonium,nitrogen,high,1,-1.0745111628799333,import,EX_nh4_e,True,True,included,"Negative community exchange means microbial uptake from the medium/lumen, not microbiome production for hepatic delivery."
+succ,succinate,organic_acid,high,0,0.0,none,EX_succ_e,True,False,absent_or_below_threshold,
+lac__L,L-lactate,organic_acid,medium,0,0.0,none,EX_lac__L_e,True,False,absent_or_below_threshold,
+lac__D,D-lactate,organic_acid,low,0,0.0,none,EX_lac__D_e,True,False,absent_or_below_threshold,
+pyr,pyruvate,organic_acid,low,0,0.0,none,EX_pyr_e,True,False,absent_or_below_threshold,
+etoh,ethanol,alcohol,medium,0,0.0,none,EX_etoh_e,True,False,absent_or_below_threshold,
+fol,folate,vitamin,low,1,-2.392448108699516e-07,import,EX_fol_e,True,False,absent_or_below_threshold,
+ribflv,riboflavin / vitamin B2,vitamin,low,1,-0.0010483734309661742,import,EX_ribflv_e,True,True,included,
+thm,thiamine / vitamin B1,vitamin,low,1,-0.000484157302192045,import,EX_thm_e,True,True,included,
+nac,niacin / nicotinate / vitamin B3,vitamin,low,1,-0.001048373430966129,import,EX_nac_e,True,True,included,
+imp,imidazole propionate,excluded_previous_candidate,excluded,0,0.0,none,,False,False,intentionally_excluded_even_if_detected,"Model ID imp usually denotes inosine monophosphate, not imidazole propionate. Do not use as a histidine-derived insulin-resistance metabolite without explicit model annotation validation."
+hdca,DCA analog,excluded_previous_candidate,excluded,0,0.0,none,,False,False,intentionally_excluded_even_if_detected,"Commonly denotes hexadecanoate/palmitate, a straight-chain fatty acid, not a deoxycholate bile-acid proxy."
+ocdca,DCA analog,excluded_previous_candidate,excluded,1,-0.01331606620686373,import,,False,False,intentionally_excluded_even_if_detected,"Commonly denotes octadecanoate/stearate, a straight-chain fatty acid, not a deoxycholate bile-acid proxy."
+ptdca,DCA analog,excluded_previous_candidate,excluded,0,0.0,none,,False,False,intentionally_excluded_even_if_detected,Straight-chain fatty acid identifier; not a validated secondary bile-acid proxy.

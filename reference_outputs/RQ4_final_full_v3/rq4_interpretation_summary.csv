@@ -1,0 +1,10 @@
+scenario,species_map,n_measurable_microbiome,delta_n_measurable_vs_primary,n_microbiome_dominant,delta_n_microbiome_dominant_vs_primary,mean_ve_microbiome
+primary,primary_27,307,0,29,0,0.8744593299893632
+objective_atpm,primary_27,134,-173,14,-15,0.5466760808106031
+portal_mode_soft,primary_27,306,-1,30,1,0.914871231967512
+portal_mode_availability,primary_27,93,-214,6,-23,0.15410632562994087
+portal_scale_0p05,primary_27,304,-3,27,-2,0.7867593264523327
+portal_scale_0p2,primary_27,298,-9,30,1,0.7854067242672108
+micom_tradeoff_0p3,primary_27,290,-17,16,-13,0.5112366322280433
+micom_tradeoff_0p7,primary_27,299,-8,20,-9,0.6497658154699169
+mapping_sensitivity_28_species,mapping_sensitivity_28,307,0,29,0,0.874459329989363

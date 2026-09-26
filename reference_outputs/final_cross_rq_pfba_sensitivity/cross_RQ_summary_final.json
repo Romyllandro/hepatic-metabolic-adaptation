@@ -1,0 +1,27 @@
+{
+  "RQ1_HFD_anchor_definition": "q<0.05 and |dataset-adjusted mean difference|>=0.2",
+  "RQ1_HFD_anchor_n": 20,
+  "RQ1_shared_all_three_SCD_referenced_n": 27,
+  "RQ2_universal_magnitude_core_n": 16,
+  "RQ3_P99_biomass_WDChow_responsive_unique_reactions": 562,
+  "RQ4_primary_HFD_threshold_documentary_abs_delta": 0.01,
+  "RQ4_primary_HFD_threshold_attributable_n": 47,
+  "RQ4_primary_microbiome_dominant_n": 29,
+  "RQ1_anchor_overlap_RQ2_universal_n": 0,
+  "RQ1_anchor_overlap_RQ3_WDChow_n": 18,
+  "RQ1_anchor_overlap_RQ4_threshold_n": 6,
+  "RQ1_anchor_overlap_RQ4_microbiome_dominant_n": 1,
+  "RQ1_shared27_overlap_RQ2_universal_n": 0,
+  "RQ1_shared27_overlap_RQ3_WDChow_n": 24,
+  "RQ1_shared27_overlap_RQ4_threshold_n": 5,
+  "pathways_with_signal_in_all_4_RQs": 6,
+  "all4_pathways": [
+    "R Group Synthesis",
+    "Transport, Mitochondrial",
+    "Transport, Extracellular",
+    "Transport, Peroxisomal",
+    "Pyruvate Metabolism",
+    "Fatty acid elongation"
+  ],
+  "interpretation": "No single exact reaction-level conserved backbone is supported across RQ1-RQ4. Cross-scale convergence is stronger at pathway level. RQ3 is an orthogonal WesternDiet-vs-Chow cellular context, not condition-matched HFD validation."
+}

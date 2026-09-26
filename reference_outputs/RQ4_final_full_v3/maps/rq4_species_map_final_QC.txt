@@ -1,0 +1,10 @@
+Input reviewed map: C:\Users\rolan\manuscript_run\pn_pipeline\curated_species_to_agora_FINAL_v3.csv
+Rows/species in reviewed map: 57
+Validated exact mappings recovered: 26
+Primary strict map included: 27
+Mapping-sensitivity map included: 28
+
+Primary synonym: Bacteroides fragilis NCTC 9343 strain ATCC 25285 -> Bacteroides_fragilis_NCTC_9343.mat
+Sensitivity-only proxy: Campylobacter jejuni subsp jejuni NCTC 11168 = ATCC 700819 -> Campylobacter_jejuni_subsp_jejuni_NCTC_11168_BN148.mat
+
+All included AGORA model files exist.

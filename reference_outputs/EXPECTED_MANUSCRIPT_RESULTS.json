@@ -1,0 +1,28 @@
+{
+  "_description": "Headline numbers reported in the revised manuscript (BIB-26-1735). Checked by src/utils/verify_manuscript_numbers.py.",
+  "model": {"id": "iMM1415", "reactions": 3726, "metabolites": 2775, "genes": 1375},
+  "rq1_primary_fba": {
+    "sample_counts": {"SCD": 37, "HFD": 38, "KD": 12, "WD": 12},
+    "significant_per_contrast": {"HFD_vs_SCD": 95, "KD_vs_SCD": 154, "WD_vs_SCD": 134, "HFD_vs_KD": 32, "HFD_vs_WD": 227},
+    "union_SCD_referenced": 262,
+    "union_all_six_contrasts_including_KD_vs_WD": 450,
+    "cross_diet_signature": 10,
+    "signature_directionally_concordant": 9,
+    "signature_reactions": ["ACOAO7p", "ARTFR61", "ENO", "GLNALANaEx", "HDD2COAtx", "NADH2_u10m", "PGM", "PROD2m", "PYK", "RTOT6"]
+  },
+  "rq2_primary_fba_aggregate": {
+    "theta": 0.2, "union": 243, "universal": 11, "universal_sign_consistent": 9,
+    "universal_reactions": ["34HPPOR", "ACACt2", "CO2t", "EX_acac_e", "EX_co2_e", "EX_o2_e", "FUMAC", "HGNTOR", "MACACI", "O2t", "TYRTA"],
+    "strain_unique": 80, "shared_7_8": 14, "shared_4_6": 60,
+    "per_strain_min": 65, "per_strain_max": 96, "per_strain_mean": 84.4,
+    "theta_sweep_universal": {"0.1": 14, "0.15": 13, "0.2": 11, "0.25": 9, "0.3": 4}
+  },
+  "rq2_fba_replicate_preserving": {"union": 187, "universal": 15, "overlap_with_primary_union": 156},
+  "sensitivity_pfba": {"rq1_shared_cross_diet": 27, "rq2_union": 105, "rq2_universal": 16},
+  "rq3": {"primary_P99_biomass_responsive_reactions": 562, "cell_types": 23, "LEC_contribution_pct": 54.3},
+  "rq4": {"primary_species": 27, "detected_species": 57, "threshold_attributable_reactions": 47, "acetate_export_reduction_pct": 79.3},
+  "benchmark_ecoli_5method_mean_r": {
+    "AC": {"reduced_engine": 0.7887, "eflux": 0.7887, "pfba": 0.7887, "gimme": 0.7266, "riptide": 0.7167},
+    "DC": {"reduced_engine": 0.8167, "eflux": 0.8167, "pfba": 0.8351, "gimme": 0.8491, "riptide": 0.8075}
+  }
+}

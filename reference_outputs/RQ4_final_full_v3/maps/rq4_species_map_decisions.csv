@@ -1,0 +1,3 @@
+species,primary_decision,sensitivity_decision,model_file,basis
+Bacteroides fragilis NCTC 9343 strain ATCC 25285,include,include,Bacteroides_fragilis_NCTC_9343.mat,verified strain synonym
+Campylobacter jejuni subsp jejuni NCTC 11168 = ATCC 700819,exclude,include,Campylobacter_jejuni_subsp_jejuni_NCTC_11168_BN148.mat,strain-variant proxy; sensitivity only

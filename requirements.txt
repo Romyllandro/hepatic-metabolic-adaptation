@@ -1,0 +1,16 @@
+# Tested with Python 3.9 (production) and 3.10/3.11
+pandas>=1.5
+numpy>=1.23
+scipy>=1.9
+statsmodels>=0.13
+scikit-learn>=1.1
+matplotlib>=3.6
+seaborn>=0.12
+pillow>=9
+openpyxl>=3.0
+pyyaml>=6
+cobra>=0.26
+micom>=0.33        # microbiome stage only
+gurobipy>=10       # licence required; see docs/INSTALL.md
+riptide            # E. coli benchmark (RIPTiDe comparator) only
+plotly             # optional interactive PCA

@@ -1,0 +1,596 @@
+ReactionID,ReactionName,Subsystem,RQ1_HFD_significant,RQ1_KD_significant,RQ1_WD_significant,RQ1_all3_shared,RQ1_HFD_anchor,RQ2_universal_magnitude,RQ3_WDChow_responsive,RQ4_HFD_threshold_attributable,RQ4_microbiome_dominant
+1PPDCRp,"Delta1-piperideine-2-carboxylate reductase, perixosomal",Lysine Metabolism,False,False,True,False,False,False,True,False,False
+2AMACHYD,2-Aminoacrylate hydrolysis,"Glycine, Serine, and Threonine Metabolism",False,False,True,False,False,False,False,False,False
+2AMADPTm,L-2-aminoadipate shuttle (cytosol/mitochondria),Lysine Metabolism,False,False,False,False,False,False,True,False,False
+2DR1PP,2-deoxy-D-ribose 1-phosphate phosphorylase,Pyrimidine Catabolism,False,False,False,False,False,False,True,False,False
+2OXOADOXm,2-Oxoadipate:lipoamde 2-oxidoreductase(decarboxylating and acceptor-succinylating) (mitochondria),Lysine Metabolism,False,False,True,False,False,False,True,False,False
+2OXOADPTm,2-oxoadipate shuttle (cytosol/mitochondria),Tryptophan metabolism,False,False,True,False,False,False,True,False,False
+34HPPOR,4 Hydroxyphenylpyruvateoxygen oxidoreductase,Tyrosine metabolism,False,False,False,False,False,True,False,False,False
+3DSPHR,3 Dehydrosphinganine reductase,Sphingolipid Metabolism,False,False,False,False,False,False,True,False,False
+3HBCOAHLm,"3-hydroxyisobutyryl-CoA hydrolase, mitochondrial","Valine, Leucine, and Isoleucine Metabolism",False,False,False,False,False,False,True,False,False
+3HCO3_NAt,Bicarbonate transport (Na/HCO3 1:3 cotransport),"Transport, Extracellular",False,False,True,False,False,False,True,False,False
+3MOBt2im,3-methyl-2-oxobutanoate mitochondrial transport via proton symport,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+3MOPt2im,3-Methyl-2-oxopentanoate mitochondrial transport via proton symport,"Transport, Mitochondrial",False,False,False,False,False,False,False,True,True
+4MOPt2im,4-methyl-2-oxopentanoate mitochondrial transport  via proton symport,"Transport, Mitochondrial",False,False,True,False,False,False,True,True,True
+5MTHFt2,5-methyltetrahydrofolate transport via anion exchange,"Transport, Extracellular",True,False,True,False,False,False,True,False,False
+AACOAT,Acetoacetyl-CoA:acetate CoA-transferase,Propanoate Metabolism,False,False,True,False,False,False,True,False,False
+AADSACYCL,AAPSAS,Lysine Metabolism,False,False,True,False,False,False,True,False,False
+AASAD3,L-aminoadipate-semialdehyde dehydrogenase (NADH),Lysine Metabolism,False,False,True,False,False,False,True,False,False
+AASAD3m,"L-aminoadipate-semialdehyde dehydrogenase (NADH), mitochondrial",Lysine Metabolism,False,False,False,False,False,False,True,False,False
+AATA,2 aminoadipate transaminase,Lysine Metabolism,False,False,True,False,False,False,True,False,False
+ABUTD,Aminobutyraldehyde dehydrogenase,beta-Alanine metabolism,False,False,True,False,False,False,True,False,False
+ABUTt2r,4 aminobutyrate reversible transport in via proton symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+ABUTt4_2_r,ABUTt4 LPAREN 2 RPAREN r,"Transport, Extracellular",False,False,True,False,False,False,True,False,False
+ACACT1m,Acetyl CoA C acetyltransferase  mitochondrial,Tryptophan metabolism,False,False,True,False,False,False,True,False,False
+ACACT1r_copy1,Acetyl-CoA C-acetyltransferase,Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+ACACT1r_copy2,Acetyl-CoA C-acetyltransferase,Tryptophan metabolism,False,False,False,False,False,False,True,False,False
+ACACt2,Acetoacetate transport via proton symport,"Transport, Extracellular",False,False,True,False,False,True,True,False,False
+ACACt2m,Acetoacetate mitochondrial transport via H+ symport,"Transport, Mitochondrial",False,True,True,False,False,False,True,False,False
+ACACtx,"Acetoacetate transport via diffusion, glyoxysome","Transport, Peroxisomal",False,False,True,False,False,False,True,False,False
+ACALDtm,Acetaldehyde mitochondrial diffusion,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+ACGAM6PS,N acetylglucosamine 6 phosphate synthase,Aminosugar Metabolism,False,False,False,False,False,False,True,False,False
+ACGAMPM,Phosphoacetylglucosamine mutase,Aminosugar Metabolism,False,False,False,False,False,False,True,False,False
+ACITL,ATP-Citrate lyase,Citric Acid Cycle,False,False,False,False,False,False,True,False,False
+ACNMCT,CTP:N-acylneuraminate cytidylyltransferase,Aminosugar Metabolism,False,False,False,False,False,False,True,False,False
+ACNML,N-Acetylneuraminate lyase,Aminosugar Metabolism,False,False,False,False,False,False,True,False,False
+ACOAD8m,Isovaleryl-coa dehydrogenase,"Valine, Leucine, and Isoleucine Metabolism",False,False,False,False,False,False,True,False,False
+ACOAD9m,"2-methylacyl-coa dehydrogenase, 2-Methylprop-2-enoyl-CoA forming","Valine, Leucine, and Isoleucine Metabolism",False,False,False,False,False,False,True,False,False
+ACOAO7p,Acyl CoA oxidase  hexadecanoyl CoA   peroxisomal,Fatty Acid Metabolism,True,False,False,False,False,False,True,False,False
+ACONTm,Aconitate hydratase,Citric Acid Cycle,False,False,False,False,False,False,True,False,False
+ACS,Acetyl-CoA synthetase,Glycolysis/Gluconeogenesis,False,False,False,False,False,False,False,False,True
+ACTLMO,Acetol monooxygenase,Pyruvate Metabolism,True,False,True,False,False,False,False,False,False
+ACt2m,Acetate mitochondrial transport via proton symport,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+ACt2r,Acetate reversible transport via proton symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,True
+ADEt,Adenine transport via diffusion,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+ADK1,Adenylate kinase,Nucleotides,False,False,True,False,False,False,True,False,False
+ADK3,Adentylate kinase (GTP),Nucleotides,False,False,False,False,False,False,True,False,False
+ADK3m,Adentylate kinase  GTP ,Nucleotides,False,False,False,False,False,False,True,False,False
+ADNK1,Adenosine kinase,Nucleotides,False,False,False,False,False,False,True,False,False
+ADNK1m,"Adenosine kinase, mitochondria",Nucleotides,False,False,False,False,False,False,True,False,False
+ADNtm,"Equilibrative nucleoside transporter, mitochondrial","Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+ADPT,Adenine phosphoribosyltransferase,Salvage Pathway,False,True,False,False,False,False,False,False,False
+ADPtx,"ADP transporter, peroxisomal","Transport, Peroxisomal",False,False,False,False,False,False,True,False,False
+AGPAT1,1-acylglycerol-3-phosphate O-acyltransferase 1,Triacylglycerol Synthesis,False,False,False,False,False,False,True,False,False
+AHCi,Adenosylhomocysteinase,Methionine Metabolism,False,False,False,False,False,False,True,False,False
+AKGDm,2-oxoglutarate dehydrogenase,Citric Acid Cycle,True,False,True,False,False,False,True,False,False
+AKGMALtm,"Dicarboxylate/tricarboxylate carrier (mal:akg), mitochondrial","Transport, Mitochondrial",False,False,True,False,False,False,True,True,False
+ALAGLNexR,L-alanine/glutamine reversible exchange,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+ALAGLYexR,L-alanine/glycine reversible exchange,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+ALAR,Alanine racemase,Alanine and Aspartate Metabolism,False,False,False,False,False,False,True,False,False
+ALATA_L,L-alanine transaminase,Glutamate metabolism,False,False,False,False,False,True,True,False,False
+ALAt2r,L alanine reversible transport via proton symport,"Transport, Extracellular",False,False,False,False,False,False,True,True,False
+ALAtN1,"Alanine transport (Na, H coupled)","Transport, Extracellular",False,False,False,False,False,False,True,False,False
+ALDD2xm,Aldehyde dehydrogenase  acetylaldehyde  NAD   mitochondrial,Glycolysis/Gluconeogenesis,False,False,False,False,False,False,True,False,False
+ALR2,Aldose reductase (methylglyoxal),Pyruvate Metabolism,True,False,True,False,False,False,False,False,False
+AMETt2m,"S-Adenosyl-L-methionine reversible transport, mitochondrial","Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+ARACHCOAtx,Fatty acid intracellular transport,"Transport, Peroxisomal",False,False,True,False,False,False,True,False,False
+ARACHt,Fatty acid transport via diffusion,"Transport, Extracellular",False,False,True,False,False,False,True,False,False
+ARGN,Arginase,Urea cycle/amino group metabolism,False,False,False,False,False,False,True,False,False
+ARGNm,Arginase (m),Urea cycle/amino group metabolism,False,False,False,False,False,False,True,False,False
+ARGt5r,ARGtiDF,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+ARGtm,Arginine mitochondrial transport via ornithine carrier,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+ARTFR12,R group artificial flux (C16:1),R Group Synthesis,True,True,True,True,True,False,True,False,False
+ARTFR13,R group artificial flux,R Group Synthesis,True,True,True,True,False,False,True,False,False
+ARTFR202,"R group artificial flux (C18:3, n-3)",R Group Synthesis,False,False,False,False,False,False,True,False,False
+ARTFR204,R group artificial flux,R Group Synthesis,True,True,True,True,False,False,True,False,False
+ARTFR41,R group artificial flux,R Group Synthesis,True,False,True,False,True,False,True,True,False
+ARTFR61,R group artificial flux,R Group Synthesis,True,False,False,False,False,False,True,False,False
+ARTPLM1,R group to palmitate conversion,R Group Synthesis,True,True,True,True,True,False,True,True,False
+ARTPLM2,R group to palmitate conversion,R Group Synthesis,True,False,True,False,False,False,True,True,False
+ARTPLM3,R group to palmitate conversion,R Group Synthesis,True,True,True,True,True,False,True,True,True
+ASNALANaEx,L-alanine/L-asparagine Na-dependent exchange (Asn-L in),"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+ASNt4,L-asparagine transport in via sodium symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+ASNtN1,"Asparagine transport (Na, H coupled)","Transport, Extracellular",False,False,False,False,False,False,True,False,False
+ASPGLUm,Aspartate-glutamate mitochondrial shuttle,"Transport, Mitochondrial",False,False,True,False,False,False,True,False,False
+ASPTA,Aspartate transaminase,Alanine and Aspartate Metabolism,False,False,True,False,False,False,True,False,False
+ASPTAm,Aspartate transaminase,Alanine and Aspartate Metabolism,False,False,True,False,False,False,True,False,False
+ATPS4m,ATP synthase (four protons for one ATP),Oxidative Phosphorylation,False,False,True,False,False,False,True,False,False
+ATPtm,"ADP/ATP transporter, mitochondrial","Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+ATPtx,"ATP transporter, peroxisomal","Transport, Peroxisomal",False,False,False,False,False,False,True,False,False
+BDHm,"3-Hydroxybutanoate:NAD+ oxidoreductase, mitochondria",Butanoate Metabolism,False,False,False,False,False,False,True,False,False
+BHBt,(R)-3-Hydroxybutanoate transport via H+ symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+BHBtm,(R)-3-Hydroxybutanoate mitochondrial transport via H+ symport,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+BIOMASS_mm_1_no_glygln,Biomass mm 1 no glygln,Biomass and maintenance functions,False,False,False,False,False,False,True,False,False
+BTNt2i,Biotin uptake,"Transport, Extracellular",False,False,False,False,False,False,True,True,True
+BTNt4i,Biotin uptake (antiport),"Transport, Extracellular",False,False,False,False,False,False,True,True,True
+BUP2,Beta-ureidopropionase (D-3-amino-isobutanoate forming),Pyrimidine Catabolism,False,False,False,False,False,False,True,False,False
+C14STRr,C-14 sterol reductase,Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+C3STDH1Pr,C-3 sterol dehydrogenase (4-methylzymosterol),Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+C3STKR2r,C-3 sterol keto reductase (zymosterol),Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+C4STMO1r,"C-4 sterol methyl oxidase (4,4-dimethylzymosterol)",Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+C4STMO2Pr,C-4 methyl sterol oxidase,Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+CATp,Catalase A  peroxisomal,Miscellaneous,False,False,True,False,False,False,True,True,False
+CDIPTr,Phosphatidylinositol synthase (Homo sapiens),Glycerophospholipid Metabolism,False,False,False,False,False,False,True,False,False
+CDPDAGtm,Intracellular transport,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+CDS,Phosphatidate cytidylyltransferase,Glycerophospholipid Metabolism,False,False,False,False,False,False,True,False,False
+CDSm,Phosphatidate cytidylyltransferase,Glycerophospholipid Metabolism,False,False,False,False,False,False,True,False,False
+CEPTC,Choline phosphotransferase,Glycerophospholipid Metabolism,False,True,False,False,False,False,True,False,False
+CEPTE,Ethanolamine phosphotransferase,Glycerophospholipid Metabolism,False,False,False,False,False,False,True,False,False
+CHLPCTD,Choline phosphate cytididyltransferase,Glycerophospholipid Metabolism,False,True,False,False,False,False,True,False,False
+CHLtm,Choline transport via diffusion (cytosol to mitochondria),"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+CHOLK,Choline kinase,Glycerophospholipid Metabolism,False,True,False,False,False,False,True,False,False
+CHOLtu,Choline uniport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+CHSTEROLt2,Cholesterol intracellular transport,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+CHSTEROLt3,Cholesterol intracellular transport,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+CITL,Citrate lyase,Citric Acid Cycle,False,False,False,False,False,False,True,False,False
+CITt4_2,Citrate transport via sodium symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+CITt4_4,Citrate transport via sodium symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+CITtam,Citrate transport  mitochondrial,"Transport, Mitochondrial",False,False,True,False,False,False,True,False,False
+CITtbm,Citrate transport  mitochondrial,"Transport, Mitochondrial",False,False,True,False,False,False,True,False,False
+CK,ATP Creatine kinase,Urea cycle/amino group metabolism,False,False,True,False,False,False,True,False,False
+CKc,ATP Creatine kinase (c),Urea cycle/amino group metabolism,False,False,True,False,False,False,True,False,False
+CLFORtex,Chloride transport via formate countertransport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+CLFORtex2,Chloride transport via formate countertransport (2:1),"Transport, Extracellular",False,True,False,False,False,False,True,False,False
+CLHCO3tex2,Chloride transport via bicarbonate countertransport (2:1),"Transport, Extracellular",False,False,True,False,False,False,True,False,False
+CLS_hs,Cardiolipin synthase (homo sapiens),Glycerophospholipid Metabolism,False,False,False,False,False,False,True,False,False
+CMPACNAtg,CMP-Sia Golgi transport via CMP antiport,"Transport, Golgi Apparatus",False,False,False,False,False,False,True,False,False
+CO2t,CO2 transporter via diffusion,"Transport, Extracellular",False,False,True,False,False,True,True,False,False
+CO2ter,CO2 endoplasmic reticular transport via diffusion,"Transport, Endoplasmic Reticular",False,False,False,False,False,False,True,False,False
+CO2tm,CO2 transport  diffusion   mitochondrial,"Transport, Mitochondrial",False,False,True,False,False,False,True,False,False
+CO2tp,CO2 peroxisomal transport,"Transport, Peroxisomal",False,False,False,False,False,False,True,False,False
+COAtim,CoA transporter  mitochondrial   irreversible,"Transport, Mitochondrial",False,False,True,False,False,False,True,False,False
+COAtp,"Coenzyme A transport, peroxisomal","Transport, Peroxisomal",False,False,True,False,False,False,True,False,False
+CREATtmdiffir,Creatine transport to/from mitochondria via diffusion,Urea cycle/amino group metabolism,False,False,True,False,False,False,True,False,False
+CRNCARtp,Carnitine acetylcarnitine carrier  peroxisomal,"Transport, Peroxisomal",False,False,True,False,False,False,True,False,False
+CRNtim,L carnitine transport out of mitochondria via diffusion,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+CSNATp,Carnitine O acetyltransferase  reverse direction  peroxisomal,Fatty Acid Metabolism,False,False,True,False,False,False,True,False,False
+CSNATr_copy2,Carnitine O acetyltransferase,Carnitine shuttle,False,False,True,False,False,False,True,False,False
+CSND,Cytosine deaminase,Pyrimidine Catabolism,False,False,False,False,False,False,True,False,False
+CSNt,Cytosine transport via facilated diffusion,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+CSm,Citrate synthase,Citric Acid Cycle,False,False,False,False,False,False,True,False,False
+CTPS1,CTP synthase  NH3 ,Nucleotides,True,True,False,False,False,False,True,False,False
+CTPS2,CTP synthase (glutamine),Pyrimidine Biosynthesis,True,False,False,False,False,False,True,False,False
+CYOOm2,"Cytochromecoxidase,mitochondrialComplexIV",Unassigned,False,False,True,False,False,False,True,False,False
+CYOR_u10m,"Ubiquinol-6 cytochrome c reductase, Complex III",Oxidative Phosphorylation,False,False,True,False,False,False,True,False,False
+CYSALANaEx,L-alanine/L-cysteine Na-dependent exchange (Cys-L in),"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+CYSGLUexR,L-cysteine/L-glutamine reversible exchanger,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+CYStec,L-cysteine transport via diffusion (extracellular to cytosol),"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+CYTDK2m,"Cytidine kinase (ATP), mitochondrial",Nucleotides,False,False,False,False,False,False,True,False,False
+CYTDtm,Cytidine facilated transport in mitochondria,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+CYTK1,Cytidylate kinase (CMP),Nucleotides,False,False,False,False,False,False,True,False,False
+CYTK14,"Cytidylate kinase (dCMP,UTP)",Nucleotides,False,False,False,False,False,False,True,False,False
+CYTK1m,"Cytidylate kinase (CMP),mitochondrial",Nucleotides,False,False,False,False,False,False,True,False,False
+CYTK3,Cytidylate kinase (CMP)(GTP),Nucleotides,False,False,False,False,False,False,True,False,False
+CYTK4,Cytidylate kinase (dCMP)(GTP),Nucleotides,False,False,False,False,False,False,True,False,False
+CYTK7,"Cytidylate kinase (CMP,UTP)",Nucleotides,False,False,False,False,False,False,True,False,False
+CytOxe,CytOxe  ,Unassigned,False,False,False,False,False,False,True,False,False
+DADNK,Deoxyadenosine kinase,Nucleotides,False,False,False,False,False,False,True,False,False
+DALAt2r,D-alanine transport via proton symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+DCMPDA,DCMP deaminase,Pyrimidine Catabolism,False,False,False,False,False,False,True,False,False
+DESAT16_2,Palmitoyl-CoA desaturase (n-C16:0CoA -> n-C16:1CoA),Fatty acid elongation,True,True,False,False,False,False,True,True,False
+DESAT18_10,Fatty acyl-CoA desaturase (n-C18:2CoA -> n-C18:3CoA),Fatty acid elongation,True,True,True,True,False,False,True,False,False
+DGK1,Deoxyguanylate kinase (dGMP:ATP),Nucleotides,False,False,False,False,False,False,True,False,False
+DGK2m,Deoxyguanylate kinase (dGMP:dATP) (mitochondrial),Nucleotides,False,False,False,False,False,False,True,False,False
+DGNSKm,Deoxyguanosine kinase,Nucleotides,False,False,False,False,False,False,True,False,False
+DGSNtm,Deoyguanosine transport in mitochondria,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+DHCR241r,24-dehydrocholesterol reductase [Precursor],Cholesterol Metabolism,True,False,False,False,False,False,False,False,False
+DHCR242r,24-dehydrocholesterol reductase [Precursor],Cholesterol Metabolism,False,False,False,False,False,False,False,True,True
+DHCR243r,24-dehydrocholesterol reductase [Precursor],Cholesterol Metabolism,False,False,False,False,False,False,True,True,True
+DHCR71r,7-dehydrocholesterol reductase,Cholesterol Metabolism,False,False,False,False,False,False,True,True,True
+DHCR72r,7-dehydrocholesterol reductase,Cholesterol Metabolism,False,False,False,False,False,False,False,True,True
+DHCRD1,Dihydroceramide desaturase,Sphingolipid Metabolism,False,False,False,False,False,False,True,False,True
+DHCRD2,Dihydroceramide desaturase,Sphingolipid Metabolism,False,False,False,False,False,False,True,False,True
+DHFR,Dihydrofolate reductase,Folate Metabolism,True,False,True,False,False,False,True,False,False
+DHPM2,Dihydropyrimidinase (dihydrothymine),Pyrimidine Catabolism,False,False,False,False,False,False,True,False,False
+DMATTx,Dimethylallyltranstransferase,Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+DM_dsT_antigen_g,"Demand for  Disialyl-T Antigen,  Golgi Apparatus",Intracellular demand,False,False,False,False,False,False,True,False,False
+DM_dttp_m,DTTP demand,Intracellular demand,False,False,False,False,False,False,True,False,False
+DNDPt20m,DTDP transport via ATP antiport,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+DNDPt23m,DTDP transport via dGTP antiport,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+DOPAt4_2_r,DOPAt4 LPAREN 2 RPAREN r,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+DOPAtu,Dopamine uniport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+DPMVDx,Diphosphomevalonate decarboxylase,Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+DRBK,Deoxyribokinase,Pentose Phosphate Pathway,False,False,False,False,False,False,True,False,False
+DRPA,Deoxyribose-phosphate aldolase,Pentose Phosphate Pathway,False,False,False,False,False,False,True,False,False
+DSAT,Dihydrosphingosine N-acyltransferase,Sphingolipid Metabolism,False,False,False,False,False,False,True,False,False
+DTMPK,DTMP kinase,Nucleotides,False,False,False,False,False,False,True,False,False
+DURAD2,Dihydrothymin dehydrogenase (NADP),Pyrimidine Catabolism,False,False,False,False,False,False,True,False,False
+DURIK1,Deoxyuridine kinase (ATP:Deoxyuridine),Nucleotides,False,False,False,False,False,False,True,False,False
+DURIPP,Deoxyuridine phosphorylase,Nucleotides,False,False,False,False,False,False,True,False,False
+D_3AIBt,D-3-amino-isobutyrate transport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+D_LACt2,D lactate transport via proton symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+EBP1r,"3-beta-hydroxysteroid-delta(8),delta(7)-isomerase",Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+EBP2r,"3-beta-hydroxysteroid-delta(8),delta(7)-isomerase",Cholesterol Metabolism,True,False,False,False,False,False,False,False,False
+ECOAH12m,"Enoyl-coa hydratase, 3-Hydroxyisobutyryl-CoA forming","Valine, Leucine, and Isoleucine Metabolism",False,False,False,False,False,False,True,False,False
+ECOAH1m,"3-Hydroxybutanoyl-CoA hydro-lyase, mitochondria",Tryptophan metabolism,False,False,True,False,False,False,True,False,False
+ENO,Enolase,Glycolysis/Gluconeogenesis,False,False,True,False,False,False,True,False,False
+ETF,Electron transfer flavoprotein,Fatty acid oxidation,False,False,False,False,False,False,True,False,False
+ETFQO,Electron transfer flavoprotein-ubiquinone oxidoreductase,Fatty acid oxidation,False,False,False,False,False,False,True,False,False
+ETHAK,Ethanolamine kinase,Glycerophospholipid Metabolism,False,False,False,False,False,False,True,False,False
+EX_3aib__D_e,D-3-Amino-isobutanoate exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_4abut_e,4-Aminobutanoate exchange,Extracellular exchange,False,False,True,False,False,False,True,False,False
+EX_5mthf_e,5-Methyltetrahydrofolate exchange,Extracellular exchange,True,False,True,False,False,False,True,False,False
+EX_ac_e,Acetate exchange,Extracellular exchange,False,False,False,False,False,False,True,False,True
+EX_acac_e,Acetoacetate exchange,Extracellular exchange,False,False,True,False,False,True,True,False,False
+EX_ade_e,Adenine exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_ala__D_e,D-Alanine exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_ala__L_e,L-Alanine exchange,Extracellular exchange,False,False,False,False,False,True,True,False,False
+EX_arach_e,Arachidic acid exchange,Extracellular exchange,False,False,True,False,False,False,True,False,False
+EX_arg__L_e,L-Arginine exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_asn__L_e,L-Asparagine exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_bhb_e,(R)-3-Hydroxybutanoate transport via H+ symport,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_chol_e,Choline exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_co2_e,CO2 exchange,Extracellular exchange,False,False,True,False,False,True,True,False,False
+EX_csn_e,Cytosine exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_cys__L_e,L-Cysteine exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_fol_e,EX fol LPAREN e RPAREN ,Extracellular exchange,True,False,True,False,False,False,True,False,False
+EX_for_e,Formate exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_fru_e,D-Fructose exchange,Extracellular exchange,False,False,True,False,False,False,True,False,False
+EX_gal_e,D-Galactose exchange,Extracellular exchange,False,False,True,False,False,False,False,False,False
+EX_gln__L_e,L-Glutamine exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_gly_e,Glycine exchange,Extracellular exchange,False,False,True,False,False,False,True,False,False
+EX_gua_e,Guanine exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_h2o2_e,Hydrogen peroxide exchange,Extracellular exchange,False,False,True,False,False,False,True,False,False
+EX_h2o_e,H2O exchange,Extracellular exchange,True,False,True,False,True,False,True,False,False
+EX_h_e,H+ exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_hco3_e,EX hco3 LPAREN e RPAREN ,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_hdca_e,Hexadecanoate (n-C16:0) exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_hdcea_e,Hexadecenoate (n-C16:1) exchange,Extracellular exchange,True,True,True,True,True,False,True,False,False
+EX_his__L_e,L-Histidine exchange,Extracellular exchange,False,False,True,False,False,False,True,False,False
+EX_ile__L_e,L-Isoleucine exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_lac__D_e,D-lactate exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_leu__L_e,L-Leucine exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_lnlnca_e,Alpha-Linolenic acid exchange,Extracellular exchange,True,True,True,True,False,False,True,False,False
+EX_lys__L_e,L-Lysine exchange,Extracellular exchange,False,False,True,False,False,False,True,False,False
+EX_malttr_e,Maltotriose exchange,Extracellular exchange,False,False,True,False,False,False,True,False,False
+EX_man_e,D-Mannose exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_met__L_e,L-Methionine exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_nh4_e,Ammonia exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_o2_e,O2 exchange,Extracellular exchange,False,False,True,False,False,True,True,False,False
+EX_phe__L_e,L-Phenylalanine exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_pi_e,Phosphate exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_pro__L_e,L-Proline exchange,Extracellular exchange,False,False,True,False,False,False,True,False,False
+EX_pyr_e,Pyruvate exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_rib__D_e,D-Ribose exchange,Extracellular exchange,False,True,False,False,False,False,True,False,False
+EX_ser__L_e,L-Serine exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_succ_e,Succinate exchange,Extracellular exchange,False,False,True,False,False,False,True,False,False
+EX_thr__L_e,L-Threonine exchange,Extracellular exchange,False,False,True,False,False,False,True,False,False
+EX_thym_e,Thymine exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_thymd_e,Thymidine exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_trp__L_e,L-Tryptophan exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_ttdca_e,Tetradecanoate (n-C14:0) exchange,Extracellular exchange,True,True,True,True,False,False,True,False,False
+EX_tyr__L_e,L-Tyrosine exchange,Extracellular exchange,False,False,False,False,False,True,True,False,False
+EX_ura_e,Uracil exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_urea_e,Urea exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+EX_val__L_e,L-Valine exchange,Extracellular exchange,False,False,False,False,False,False,True,False,False
+FACOAL140,Fatty acid  CoA ligase  tetradecanoate ,Fatty acid activation,True,True,True,True,False,False,True,False,False
+FACOAL160,Fatty acid  CoA ligase  hexadecanoate ,Fatty acid activation,False,False,False,False,False,False,True,False,False
+FACOAL161,Fatty acid  CoA ligase  hexadecenoate ,Fatty acid activation,True,True,True,True,True,False,True,False,False
+FACOAL1832,Alpha-Linolenic acid:CoA ligase (AMP-forming),Fatty acid activation,True,True,True,True,False,False,True,False,False
+FACOAL200,Fatty-acid--CoA ligase,Fatty acid activation,False,False,True,False,False,False,True,False,False
+FADH2tru,"FADH2 transporter, endoplasmic reticulum","Transport, Endoplasmic Reticular",False,False,False,False,False,False,True,False,False
+FADtru,"FAD transporter, endoplasmic reticulum","Transport, Endoplasmic Reticular",False,False,False,False,False,False,True,False,False
+FAOXC180x,Beta oxidation of long chain fatty acid,"Fatty acid oxidation, peroxisome",False,False,True,False,False,False,True,False,False
+FAOXC183803m,Beta oxidation of fatty acid,Fatty acid oxidation,False,False,False,False,False,False,True,False,False
+FAOXC18480m,Beta oxidation of fatty acid,Fatty acid oxidation,False,False,False,False,False,False,True,False,False
+FAOXC200180x,Beta oxidation of long chain fatty acid,"Fatty acid oxidation, peroxisome",False,False,True,False,False,False,True,False,False
+FAOXC80,Beta oxidation of med/long chain fatty acid,Fatty acid oxidation,False,False,False,False,False,False,True,False,False
+FBA,Fructose-bisphosphate aldolase,Glycolysis/Gluconeogenesis,False,False,False,False,False,False,True,False,False
+FBA2,D Fructose 1 phosphate D glyceraldehyde 3 phosphate lyase,Fructose and Mannose Metabolism,False,True,True,False,False,False,True,False,False
+FOLR2,Folate reductase,Folate Metabolism,True,False,True,False,False,False,True,False,False
+FOLt2,Folate transport via anion exchange,"Transport, Extracellular",True,False,True,False,False,False,True,False,False
+FORtr,"FOR transporter, endoplasmic reticulum","Transport, Endoplasmic Reticular",False,False,False,False,False,False,True,False,False
+FRDPtr,"Lipid, flip-flop intracellular transport","Transport, Peroxisomal",False,False,False,False,False,False,True,False,False
+FRUt4,D-fructose transport  via sodium cotransport,"Transport, Extracellular",False,False,True,False,False,False,True,False,False
+FTCD,Formimidoyltransferase cyclodeaminase reversible,Folate Metabolism,False,False,True,False,False,False,True,False,False
+FTHFDH,10-formyltetrahydrofolate:NADP+ oxidoreductase,Folate Metabolism,False,False,False,False,False,False,True,False,False
+FUM,Fumarase,Citric Acid Cycle,True,True,True,True,True,False,True,False,False
+FUMAC,Fumarylacetoacetase,Tyrosine metabolism,False,False,False,False,False,True,False,False,False
+FUMSO3tm,"Fumarate:sulfite antiport, mitochondrial","Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+FUMSO4tm,"Fumarate:sulfate antiport, mitochondrial","Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+FUMTSULtm,"Fumarate:thiosulfate antiport, mitochondrial","Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+FUMm,Fumarase  mitochondrial,Citric Acid Cycle,True,True,True,True,True,False,True,False,False
+FUMtm,"Fumarate transport, mitochondrial","Transport, Mitochondrial",True,True,True,True,True,False,True,False,False
+G3PD1ir,Glycerol 3 phosphate dehydrogenase  NAD ,Glycerophospholipid Metabolism,False,False,False,False,False,False,True,True,False
+G3PD2m,"Glycerol-3-phosphate dehydrogenase (FAD), mitochondrial",Glycolysis/Gluconeogenesis,False,False,False,False,False,False,False,True,False
+G5SADrm,L glutamate 5 semialdehyde dehydratase  reversible  mitochondrial,Arginine and Proline Metabolism,False,False,True,False,False,False,True,False,False
+G6PDH1er_copy2,"Glucose-6-phosphate dehydrogenase, endoplasmic reticulum",Pentose Phosphate Pathway,False,False,False,False,False,False,True,True,True
+G6PDH2er,Glucose 6 phosphate dehydrogenase  endoplasmic reticulum,Pentose Phosphate Pathway,False,False,False,False,False,False,True,True,True
+GALKr,Galactokinase,Galactose metabolism,False,False,True,False,False,False,False,False,False
+GALT,Galactose 1 phosphate uridylyltransferase,Galactose metabolism,False,False,True,False,False,False,False,False,False
+GALUi,UTP-glucose-1-phosphate uridylyltransferase (irreversible),Galactose metabolism,False,False,True,False,False,False,True,False,False
+GALt1r,Galactose transport (uniport),"Transport, Extracellular",False,False,True,False,False,False,True,False,False
+GALt2_2,D-galactose transport  via proton symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+GALt4_2,Galactose transport via sodium symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+GAPD,Glyceraldehyde-3-phosphate dehydrogenase,Glycolysis/Gluconeogenesis,False,False,True,False,False,False,True,False,False
+GF6PTA,Glutamine-fructose-6-phosphate transaminase,Aminosugar Metabolism,False,False,False,False,False,False,True,False,False
+GGNG,Glycogenin self-glucosylation,Starch and Sucrose Metabolism,False,False,True,False,False,False,True,False,False
+GHMT2r,"Glycine hydroxymethyltransferase, reversible","Glycine, Serine, and Threonine Metabolism",False,False,True,False,False,False,True,False,False
+GK1,Guanylate kinase (GMP:ATP),Nucleotides,False,True,False,False,False,False,True,False,False
+GLBRAN,"1,4-alpha-glucan branching enzyme (glygn1 -> glygn2)",Starch and Sucrose Metabolism,False,False,True,False,False,False,True,False,False
+GLCt2,D-glucose transport in via proton symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+GLCt2_2,D-glucose transport in via proton symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+GLCt4,Glucose transport via sodium symport,"Transport, Extracellular",True,False,True,False,False,False,True,False,False
+GLDBRAN,Glycogen debranching enzyme,Starch and Sucrose Metabolism,False,False,True,False,False,False,True,False,False
+GLGNS1,Glycogen synthase (ggn -> glygn1),Starch and Sucrose Metabolism,False,False,True,False,False,False,True,False,False
+GLNt4,L-glutamine reversible transport via sodium symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+GLNtN1,"Glutamine transport (Na, H coupled)","Transport, Extracellular",False,False,False,False,False,False,True,False,False
+GLPASE1,Glycogen phosphorylase (glygn2 -> dxtrn),Starch and Sucrose Metabolism,False,False,True,False,False,False,True,False,False
+GLPASE2,Glycogen phosphorylase (amyls -> glc-D),Starch and Sucrose Metabolism,False,False,True,False,False,False,True,False,False
+GLUDC,Glutamate Decarboxylase,Glutamate metabolism,False,False,False,False,False,False,True,False,False
+GLUTCOADHm,Glutaryl-CoA dehydrogenase (mitochondria),Tryptophan metabolism,False,False,True,False,False,False,True,False,False
+GLUt2m,"Amino acid transporter (glu-L), mitochondrial","Transport, Mitochondrial",False,False,True,False,False,False,True,True,False
+GLYATm,Glycine C-acetyltransferase,"Glycine, Serine, and Threonine Metabolism",False,False,True,False,False,False,True,False,False
+GLYt2r,Glycine reversible transport via proton symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+GLYt4,Glycine transport via sodium symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+GLYt7_311_r,GLYt7 LPAREN 311 RPAREN r,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+GLYtm,Glycine passive transport to mitochondria,"Transport, Mitochondrial",False,False,True,False,False,False,True,False,False
+GPAM_hs,Glycerol-3-phosphate acyltransferase,Triacylglycerol Synthesis,False,False,False,False,False,False,True,False,False
+GRTTx,Geranyltranstransferase,Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+GTHOm,Glutathione oxidoreductase,Glutamate metabolism,True,True,True,True,True,False,False,False,False
+GTHOr,Glutathione oxidoreductase,Glutamate metabolism,False,False,True,False,False,False,True,False,False
+GTHPi,Glutathione peridoxase,Glutathione Metabolism,False,False,True,False,False,False,True,False,False
+GTHPm,Glutathione peroxidase  mitochondria,Glutathione Metabolism,True,True,True,True,True,False,False,False,False
+GUAPRT,Guanine phosphoribosyltransferase,Salvage Pathway,False,True,False,False,False,False,True,False,False
+GUAt,Guanine transport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+GluForTx,Formimidoyltransferase cyclodeaminase,Histidine Metabolism,False,False,True,False,False,False,True,False,False
+H2CO3D,Carboxylic acid dissociation,Miscellaneous,False,False,False,False,False,False,True,False,False
+H2CO3D2,Carboxylic acid dissociation,Miscellaneous,False,False,False,False,False,False,True,False,False
+H2O2syn,Hydrogen peroxide synthesis (NADPH dependent),Tyrosine metabolism,False,False,False,False,False,False,False,True,True
+H2O2t,Hydrogen peroxide transport via diffusion,"Transport, Extracellular",False,False,True,False,False,False,True,False,False
+H2O2tm,"Hydrogen peroxide transport via diffusion, mitochondria","Transport, Mitochondrial",True,True,True,True,True,False,True,False,False
+H2O2tp,"Hydrogen peroxide transport via diffusion, glyoxysome","Transport, Peroxisomal",False,False,True,False,False,False,True,True,True
+H2Ot,H2O transport via diffusion,"Transport, Extracellular",True,False,True,False,True,False,True,False,False
+H2Oter,H2O endoplasmic reticulum transport,"Transport, Endoplasmic Reticular",False,False,False,False,False,False,True,False,False
+H2Otm,H2O transport  mitochondrial,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+H2Otp,H2O transport  peroxisomal,"Transport, Peroxisomal",False,False,True,False,False,False,True,True,False
+HACD1m,"3-Hydroxybutanoyl-CoA:NAD+ oxidoreductase, mitochondria",Tryptophan metabolism,False,False,True,False,False,False,True,False,False
+HCO3Em,HCO3 equilibration reaction,Urea cycle/amino group metabolism,False,False,False,False,False,False,True,False,False
+HDCAt,Hexadecanoate  n C160  transport in via uniport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+HDCEAt,Hexadecenoate  n C161  transport in via uniport,"Transport, Extracellular",True,True,True,True,True,False,True,False,False
+HDD2COAtx,Hdd2coa intracellular transport,"Transport, Peroxisomal",True,False,False,False,False,False,True,False,False
+HEX1,Hexokinase (D-glucose:ATP),Glycolysis/Gluconeogenesis,False,False,True,False,False,False,True,False,False
+HEX4,Hexokinase (D-mannose:ATP),Fructose and Mannose Metabolism,False,False,False,False,False,False,True,False,False
+HEX7,Hexokinase (D-fructose:ATP),Fructose and Mannose Metabolism,False,False,True,False,False,False,True,False,False
+HGNTOR,Homogentisateoxygen 1 2 oxidoreductase  decyclizing ,Tyrosine metabolism,False,False,False,False,False,True,False,False,False
+HIBDm,"3-hydroxyisobutyrate dehydrogenase, mitochondrial","Valine, Leucine, and Isoleucine Metabolism",False,False,False,False,False,False,True,False,False
+HISDr,Histidase r,Histidine Metabolism,False,False,True,False,False,False,True,False,False
+HIStN1,"Histidine transport (Na, H coupled)","Transport, Extracellular",False,False,False,False,False,False,True,False,False
+HIStiDF,L-histidine transport via diffusion (extracellular to cytosol),"Transport, Extracellular",False,False,True,False,False,False,True,False,False
+HMGCOARx,Hydroxymethylglutaryl CoA reductase (ir),Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+HMGCOASm,Hydroxymethylglutaryl CoA synthase  mitochondrial,Cholesterol Metabolism,False,False,True,False,False,False,True,False,False
+HMGCOAtm,Hydroxymethylglutaryl CoA reversible mitochondrial transport,"Transport, Mitochondrial",False,False,True,False,False,False,True,False,False
+HMGCOAtx,Hydroxymethylglutaryl-CoA reversible peroxisomal transport,"Transport, Peroxisomal",False,False,True,False,False,False,True,False,False
+HMGLx,Hydroxymethylglutaryl-CoA lyase,Cholesterol Metabolism,False,False,True,False,False,False,True,False,False
+HSD3A1r,3 alpha-hydroxysteroid dehydrogenase (type 3),Steroid Metabolism,False,False,False,False,False,False,True,True,False
+HSD3A2r,3 alpha-hydroxysteroid dehydrogenase (type 3),Steroid Metabolism,False,False,False,False,False,False,True,True,False
+Htg,"Proton transport, Golgi","Transport, Golgi Apparatus",False,False,False,False,False,False,True,False,False
+Htm,Uncoupling protein,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+Htr,"H transporter, endoplasmic reticulum","Transport, Endoplasmic Reticular",False,False,False,False,False,False,True,False,False
+Htx,"H transporter, peroxisome","Transport, Peroxisomal",False,False,True,False,False,False,True,False,False
+ICDHxm,Isocitrate dehydrogenase  NAD ,Citric Acid Cycle,False,False,False,False,False,False,True,False,False
+ICDHym,Isocitrate dehydrogenase  NADP ,Citric Acid Cycle,False,False,False,False,False,False,True,False,False
+ILETA,Isoleucine transaminase,"Valine, Leucine, and Isoleucine Metabolism",False,False,False,False,False,False,False,True,True
+ILETAm,Isoleucine transaminase  mitochondrial,"Valine, Leucine, and Isoleucine Metabolism",False,False,False,False,False,False,False,True,True
+ILEtec,L-isoleucine transport via diffusion (extracellular to cytosol),"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+ILEtmi,Isoleucine transport from mitochondria to cytosol,"Transport, Mitochondrial",False,False,False,False,False,False,False,True,True
+IPDDIx,Isopentenyl-diphosphate D-isomerase,Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+IZPN,Imidazolonepropionase,Histidine Metabolism,False,False,True,False,False,False,True,False,False
+It,Iodide uniport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+KCC2t,K+-Cl- cotransporter (NH4+),"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+KHK,Ketohexokinase,Fructose and Mannose Metabolism,False,True,True,False,False,False,True,False,False
+LALDD,D-lactaldehyde dehydrogenase,Pyruvate Metabolism,False,False,False,False,False,False,True,True,False
+LALDO2x,D-Lactaldehyde:NAD+ 1-oxidoreductase,Pyruvate Metabolism,False,False,False,False,False,False,True,True,False
+LDH_D,D-lactate dehydrogenase,Pyruvate Metabolism,False,False,False,False,False,False,True,False,False
+LEUTA,Leucine transaminase,"Valine, Leucine, and Isoleucine Metabolism",False,False,True,False,False,False,True,True,True
+LEUTAm,Leucine transaminase  mitochondrial,"Valine, Leucine, and Isoleucine Metabolism",False,False,True,False,False,False,False,True,True
+LEUt5m,Leucine mitochondrial transport,"Transport, Mitochondrial",False,False,True,False,False,False,False,True,True
+LEUtec,L-leucine transport via diffusion,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+LNLNCACPT1,Carnitine O-palmitoyltransferase,Carnitine shuttle,False,False,False,False,False,False,True,False,False
+LNLNCACPT2,Carnitine transferase,Carnitine shuttle,False,False,False,False,False,False,True,False,False
+LNLNCACRNt,Transport into the mitochondria (carnitine),Carnitine shuttle,False,False,False,False,False,False,True,False,False
+LNLNCAt,Fatty acid transport via diffusion,"Transport, Extracellular",True,True,True,True,False,False,True,False,False
+LNS14DMr,Cytochrome P450 lanosterol 14-alpha-demethylase,Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+LNSTLSr,Lanosterol synthase,Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+LPCOXp,"L-pipecolate oxidase, peroxisomal",Lysine Metabolism,False,False,True,False,False,False,True,False,False
+LSTO1r,Lathosterol oxidase,Cholesterol Metabolism,False,False,False,False,False,False,True,True,True
+LSTO2r,Lathosterol oxidase,Cholesterol Metabolism,False,False,False,False,False,False,False,True,True
+LYSOXp,"L-lysine oxidase, peroxisomal",Lysine Metabolism,False,False,True,False,False,False,True,False,False
+LYSt5r,LYStiDF,"Transport, Extracellular",False,False,True,False,False,False,True,False,False
+LYStip,"L-lysine transport, peroxisomal (irreversible)","Transport, Peroxisomal",False,False,True,False,False,False,True,False,False
+LYStm,Lysine mitochondrial transport via ornithine carrier,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+MACACI,Maleylacetoacetate isomerase,Tyrosine metabolism,False,False,False,False,False,True,False,False,False
+MALSO3tm,"Malate:sulfite antiport, mitochondrial","Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+MALSO4tm,"Malate:sulfate antiport, mitochondrial","Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+MALT,Alpha glucosidase,Starch and Sucrose Metabolism,False,False,True,False,False,False,True,False,False
+MALTSULtm,"Malate:thiosulfate antiport, mitochondrial","Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+MALTt1r,Maltose transport (uniport),"Transport, Extracellular",False,False,True,False,False,False,True,False,False
+MALtm,Malate transport  mitochondrial,"Transport, Mitochondrial",True,True,True,True,True,False,True,True,False
+MAN6PI,Mannose-6-phosphate isomerase,Fructose and Mannose Metabolism,False,False,False,False,False,False,True,False,False
+MANt1r,Mannose transport (uniport),"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+MCCCrm,"Methylcrotonoyl-CoA carboxylase, mitochondrial","Valine, Leucine, and Isoleucine Metabolism",False,False,False,False,False,False,True,False,False
+MDH,Malate dehydrogenase,Citric Acid Cycle,False,False,True,False,False,False,True,False,False
+MDHm,Malate dehydrogenase  mitochondrial,Citric Acid Cycle,False,False,True,False,False,False,True,False,False
+ME2,Malic enzyme (NADP),Pyruvate Metabolism,False,False,False,False,False,True,False,False,False
+ME2m,Malic enzyme  NADP   mitochondrial,Pyruvate Metabolism,False,False,False,False,False,False,True,False,False
+METAT,Methionine adenosyltransferase,Methionine Metabolism,False,False,False,False,False,False,True,False,False
+METS,Methionine synthase,Methionine Metabolism,False,False,False,False,False,False,True,False,False
+METtec,L-methionine transport via diffusion (extracellular to cytosol),"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+MEVK1x,Mevalonate kinase (atp),Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+MGCHrm,Methylglutaconyl-coa hydratase,"Valine, Leucine, and Isoleucine Metabolism",False,False,False,False,False,False,True,False,False
+MI1PP,Myo-inositol 1-phosphatase,Inositol Phosphate Metabolism,False,False,False,False,False,False,True,False,False
+MI1PS,Myo Inositol 1 phosphate synthase,Inositol Phosphate Metabolism,False,False,False,False,False,False,True,False,False
+MLTG1e,"Maltodextrin glucosidase (maltotriose), extracellular",Starch and Sucrose Metabolism,False,False,True,False,False,False,True,False,False
+MMMm,Methylmalonyl-CoA mutase,"Valine, Leucine, and Isoleucine Metabolism",False,False,False,False,False,False,True,False,False
+MMTSADm,"Malonate-semialdehyde dehydrogenase (acetylating), mitochondrial","Valine, Leucine, and Isoleucine Metabolism",False,False,False,False,False,False,True,False,False
+MTHFC,Methenyltetrahydrofolate cyclohydrolase,Folate Metabolism,False,False,False,False,False,False,True,False,False
+MTHFD,Methylenetetrahydrofolate dehydrogenase (NADP),Folate Metabolism,True,False,False,False,False,False,True,False,False
+MTHFD2i,Methylenetetrahydrofolate dehydrogenase  NAD ,Folate Metabolism,True,False,False,False,True,False,True,False,False
+MTHFD2m,"Methylenetetrahydrofolate dehydrogenase (NAD), mitochondrial",Folate Metabolism,False,False,True,False,False,False,True,False,False
+MTHFDm,Methylenetetrahydrofolate dehydrogenase  NADP   mitochondrial,Folate Metabolism,False,False,True,False,False,False,True,False,False
+MTHFR3,5 10 methylenetetrahydrofolatereductase  NADPH ,Folate Metabolism,True,False,True,False,False,False,True,False,False
+NADH2_u10m,"NADH dehydrogenase, mitochondrial",Oxidative Phosphorylation,False,True,True,False,False,False,True,False,False
+NADHtru,"NADH transporter, endoplasmic reticulum","Transport, Endoplasmic Reticular",True,False,False,False,False,False,True,False,False
+NADPHtru,"NADPH transporter, endoplasmic reticulum","Transport, Endoplasmic Reticular",False,False,False,False,False,False,True,False,False
+NADPHtxu,"NADPH transport, glyoxysome","Transport, Peroxisomal",False,False,False,False,False,False,True,False,False
+NADPtru,"NADP transporter, endoplasmic reticulum","Transport, Endoplasmic Reticular",False,False,False,False,False,False,True,False,False
+NADPtxu,"NADP transport, glyoxysome","Transport, Peroxisomal",False,False,False,False,False,False,True,False,False
+NADtru,"NAD transporter, endoplasmic reticulum","Transport, Endoplasmic Reticular",True,False,False,False,False,False,True,False,False
+NAIt,Na+ / iodide cotransport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+NAt,Sodium transport (uniport),"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+NAt5,Sodium/ammonium proton antiporter,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+NDPK1,Nucleoside-diphosphate kinase (ATP:GDP),Nucleotides,False,False,False,False,False,False,True,False,False
+NDPK1m,"Nucleoside-diphosphate kinase (ATP:GDP), mitochondrial",Nucleotides,False,False,True,False,False,False,True,False,False
+NDPK2,Nucleoside-diphosphate kinase (ATP:UDP),Nucleotides,False,False,True,False,False,False,True,False,False
+NDPK3,Nucleoside-diphosphate kinase (ATP:CDP),Nucleotides,False,False,False,False,False,False,True,False,False
+NDPK3m,"ATP:CDP phosphotransferase, mitochondria",Nucleotides,False,False,False,False,False,False,True,False,False
+NDPK4m,"ATP:dTDP phosphotransferase, mitochondria",Nucleotides,False,False,False,False,False,False,True,False,False
+NDPK8m,"Nucleoside-diphosphate kinase, mitochondria",Nucleotides,False,False,False,False,False,False,True,False,False
+NH4tp,Ammonia peroxisomal transport,"Transport, Peroxisomal",False,False,True,False,False,False,True,False,False
+NKCC2t,Na+-K+-Cl- cotransport (NH4+),"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+NRPPHRt4_2_r,NRPPHRt4 LPAREN 2 RPAREN r,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+NRPPHRtu,Norepinephrine uniport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+NS26T2g,"Alpha-N-acetylgalactosaminide alpha-2,6-sialyltransferase",O-Glycan Biosynthesis,False,False,False,False,False,False,True,False,False
+NTD4,5'-nucleotidase (CMP),Pyrimidine Catabolism,False,False,False,False,False,False,True,False,False
+O2Stm,Superoxide anion transport via diffusion (mitochondria),"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+O2t,O2 transport  diffusion ,"Transport, Extracellular",False,False,True,False,False,True,True,False,False
+O2ter,O2  transport  endoplasmic reticulum,"Transport, Endoplasmic Reticular",False,False,False,False,False,False,True,False,False
+O2tm,O2 transport  diffusion ,"Transport, Mitochondrial",False,False,True,False,False,False,True,False,False
+O2tp,O2 transport glycosome,"Transport, Peroxisomal",False,False,True,False,False,False,True,True,False
+OCOAT1m,3-oxoacid CoA-transferase,"Valine, Leucine, and Isoleucine Metabolism",False,False,True,False,False,False,True,False,False
+OIVD1m,"2-oxoisovalerate dehydrogenase (acylating; 4-methyl-2-oxopentaoate), mitochondrial","Valine, Leucine, and Isoleucine Metabolism",False,False,False,False,False,False,True,False,False
+OIVD2m,"2-oxoisovalerate dehydrogenase (acylating; 3-methyl-2-oxobutanoate), mitochondrial","Valine, Leucine, and Isoleucine Metabolism",False,False,False,False,False,False,True,False,False
+ORNDC,Ornithine Decarboxylase,Urea cycle/amino group metabolism,False,False,True,False,False,False,True,False,False
+ORNTArm,L-Ornithine:2-oxo-acid aminotransferase,Urea cycle/amino group metabolism,False,False,True,False,False,False,True,False,False
+ORNt3m,Ornithine mitochondrial transport via proton antiport,"Transport, Mitochondrial",False,False,True,False,False,False,True,False,False
+OXAHCOtex,Oxalate transport via bicarbonate countertransport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+P5CDm,1 pyrroline 5 carboxylate dehydrogenase  mitochondrial,Glutamate metabolism,False,False,False,False,False,False,True,False,False
+P5CRx,Pyrroline-5-carboxylate reductase(nadh),Urea cycle/amino group metabolism,False,False,False,False,False,False,True,False,False
+P5CRxm,Pyrroline-5-carboxylate reductase (m),Arginine and Proline Metabolism,True,True,True,True,False,False,False,False,False
+PAFH,Platelet-activating factor acetylhydrolase,Glycerophospholipid Metabolism,False,False,False,False,False,False,True,False,False
+PAFS,Alkyl glycerol phosphocholine acetyl transferase,Glycerophospholipid Metabolism,False,False,False,False,False,False,True,False,False
+PCHOLPm_hs,Choline phosphatase,Glycerophospholipid Metabolism,False,False,False,False,False,False,True,False,False
+PCREATtmdiffir,Phosphocreatine transport to/from mitochondria via diffusion,Urea cycle/amino group metabolism,False,False,True,False,False,False,True,False,False
+PCm,Pyruvate carboxylase,Pyruvate Metabolism,False,False,False,False,False,False,True,False,False
+PDHm,Pyruvate dehydrogenase,Glycolysis/Gluconeogenesis,False,False,True,False,False,False,True,False,False
+PEPCKm,Phosphoenolpyruvate carboxykinase (GTP),Glycolysis/Gluconeogenesis,False,False,True,False,False,False,True,False,False
+PETHCT,Phosphoethanolamine cytidyltransferase,Glycerophospholipid Metabolism,False,False,False,False,False,False,True,False,False
+PETOHMm_hs,Phosphatidylethanolamine N-methyltransferase,Glycerophospholipid Metabolism,False,False,False,False,False,False,True,False,False
+PE_HStm,Phosphatidylethanolamine scramblase,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+PFK,Phosphofructokinase,Glycolysis/Gluconeogenesis,False,False,False,False,False,False,True,False,False
+PGI,Glucose-6-phosphate isomerase,Glycolysis/Gluconeogenesis,False,False,True,False,False,False,True,False,False
+PGK,Phosphoglycerate kinase,Glycolysis/Gluconeogenesis,False,False,True,False,False,False,True,False,False
+PGM,Phosphoglycerate mutase,Glycolysis/Gluconeogenesis,False,False,True,False,False,False,True,False,False
+PGMT,Phosphoglucomutase,Glycolysis/Gluconeogenesis,False,False,True,False,False,False,True,False,False
+PGPPT,Phosphatidyl-CMP: glycerophosphate phosphatidyltransferase,Glycerophospholipid Metabolism,False,False,False,False,False,False,True,False,False
+PGPP_hs,Phosphatidylglycerol phosphate phosphatase (homo sapiens),Glycerophospholipid Metabolism,False,False,False,False,False,False,True,False,False
+PHEt4,L-phenylalanine transport in via sodium symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+PIt2m_2,Phosphate mitochondrial transport via proton symport,Unassigned,False,False,True,False,False,False,True,True,False
+PIt8,Phosphate transport in/out via Na+ symporter,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+PIter,"Phosphate transport, endoplasmic reticulum","Transport, Endoplasmic Reticular",False,False,False,False,False,False,True,False,False
+PItx,"Phosphate transporter, peroxisome","Transport, Peroxisomal",False,False,False,False,False,False,True,False,False
+PMEVKx,Phosphomevalonate kinase,Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+PMTCOAtx,Fatty acid intracellular transport,"Transport, Peroxisomal",True,False,False,False,False,False,True,False,False
+PPA,Inorganic diphosphatase,Oxidative Phosphorylation,False,False,False,False,False,False,True,False,False
+PPAP,Phosphatidic acid phosphatase,Triacylglycerol Synthesis,False,False,False,False,False,False,True,False,False
+PPAer,"Inorganic diphosphatase, endoplasmic reticulum",Miscellaneous,False,False,False,False,False,False,True,False,False
+PPAm,Inorganic diphosphatase,Oxidative Phosphorylation,False,False,False,False,False,False,True,False,False
+PPD2CSPp,PPD2CSPp,Lysine Metabolism,False,False,True,False,False,False,True,False,False
+PPItr,"Diphosphate transporter, endoplasmic reticulum","Transport, Endoplasmic Reticular",False,False,False,False,False,False,True,False,False
+PPItx,"Diphosphate transporter, peroxisome","Transport, Peroxisomal",False,False,False,False,False,False,True,False,False
+PPM,Phosphopentomutase,Pentose Phosphate Pathway,False,False,False,False,False,False,True,False,False
+PRO1xm,Proline oxidase  NAD   mitochondrial,Arginine and Proline Metabolism,False,False,False,False,False,False,True,False,False
+PROD2,Proline dehydrogenase,Arginine and Proline Metabolism,False,False,False,False,False,False,True,False,False
+PROD2m,Proline dehydrogenase (m),Arginine and Proline Metabolism,True,True,True,True,True,False,True,False,False
+PROt2r,L proline reversible transport via proton symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+PROt4,Na+/Proline-L symporter,"Transport, Extracellular",False,False,True,False,False,False,True,False,False
+PROtm,L proline transport  mitochondrial,"Transport, Mitochondrial",False,False,True,False,False,False,True,False,False
+PRPPS,Phosphoribosylpyrophosphate synthetase,Pentose Phosphate Pathway,True,True,False,False,False,False,True,False,False
+PSDm_hs,Phosphatidylserine decarboxylase,Glycerophospholipid Metabolism,False,False,False,False,False,False,True,False,False
+PSFLIPm,Phosphatidylserine flippase,"Transport, Mitochondrial",False,False,False,False,False,False,True,False,False
+PSSA1_hs,Phosphatidylserine synthase homo sapiens,Glycerophospholipid Metabolism,False,True,False,False,False,False,True,False,False
+PSSA2_hs,Phosphatidylserine synthase homo sapiens,Glycerophospholipid Metabolism,False,False,False,False,False,False,True,False,False
+PTRCOX1,Putrescine:oxygen oxidoreductase (deaminating),Arginine and Proline Metabolism,False,False,True,False,False,False,True,False,False
+PUNP1,Purine-nucleoside phosphorylase (Adenosine),Nucleotides,False,False,False,False,False,False,True,False,False
+PUNP2,Purine-nucleoside phosphorylase (Deoxyadenosine),Purine Catabolism,False,False,False,False,False,False,True,False,False
+PUNP4,Purine-nucleoside phosphorylase (Deoxyguanosine),Purine Catabolism,False,False,False,False,False,False,True,False,False
+PYK,Pyruvate kinase,Glycolysis/Gluconeogenesis,False,True,True,False,False,False,True,False,False
+PYNP2r,Pyrimidine-nucleoside phosphorylase (uracil),Pyrimidine Catabolism,False,False,False,False,False,False,True,False,False
+PYRt2,Pyruvate transport in via proton symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+PYRt2m,Pyruvate mitochondrial transport via proton symport,"Transport, Mitochondrial",False,False,True,False,False,False,True,False,False
+R01465m,"L-threonine 3-dehydrogenase, mitochondrial",Unassigned,False,False,True,False,False,False,True,False,False
+RADH,Retinal dehydrogenase,Vitamin A Metabolism,False,False,False,False,False,False,True,False,False
+RADH2,Retinal dehydrogenase (NADPH),Vitamin A Metabolism,False,False,False,False,False,False,True,False,False
+RADH3,Retinal dehydrogenase,Vitamin A Metabolism,False,False,False,False,False,False,True,False,False
+RADH4,Retinal dehydrogenase (NADPH),Vitamin A Metabolism,False,False,False,False,False,False,True,False,False
+RBK,Ribokinase,Pentose Phosphate Pathway,False,True,False,False,False,False,True,False,False
+RDH1,Retinol dehydrogenase (all-trans),Vitamin A Metabolism,False,False,False,False,False,False,True,True,False
+RDH1a,"Retinol dehydrogenase (all-trans,NADPH)",Vitamin A Metabolism,False,False,False,False,False,False,True,True,False
+RDH2,"Retinol dehydrogenase (9-cis,NADH)",Vitamin A Metabolism,False,False,False,False,False,False,True,False,False
+RDH2a,"Retinol dehydrogenase (9-cis,NADPH)",Vitamin A Metabolism,False,False,False,False,False,False,True,False,False
+RDH3,"Retinol dehydrogenase (11-cis,NADH)",Vitamin A Metabolism,False,False,False,False,False,False,True,False,False
+RDH3a,"Retinol dehydrogenase (11-cis,NADPH)",Vitamin A Metabolism,False,False,False,False,False,False,True,False,False
+RIBt,D-ribose transport via diffusion,"Transport, Extracellular",False,True,False,False,False,False,True,False,False
+RNDR2,Ribonucleoside-diphosphate reductase (GDP),Nucleotides,False,True,False,False,False,False,True,False,False
+RPE,Ribulose 5-phosphate 3-epimerase,Pentose Phosphate Pathway,False,False,False,False,False,False,True,False,False
+RPI,Ribose-5-phosphate isomerase,Pentose Phosphate Pathway,False,False,False,False,False,False,True,False,False
+RTOT1,R total flux,R Group Synthesis,True,True,True,True,True,False,True,True,False
+RTOT2,R total flux,R Group Synthesis,True,True,True,True,False,False,True,False,False
+RTOT4,R total flux,R Group Synthesis,True,False,True,False,True,False,True,True,False
+RTOT6,R total flux,R Group Synthesis,True,False,False,False,False,False,True,False,False
+RTOT_2,R total flux 2 position,R Group Synthesis,True,False,True,False,False,False,True,True,False
+RTOT_3,R total flux 3 position,R Group Synthesis,True,True,True,True,False,False,True,True,True
+S23Tg,"Beta-galactoside alpha-2,3-sialyltransferase (T antigen)",O-Glycan Biosynthesis,False,False,False,False,False,False,True,False,False
+SACCD3m,"Saccharopine dehydrogenase (NADP, L-lysine forming), mitochondrial",Lysine Metabolism,False,False,False,False,False,False,True,False,False
+SACCD4m,"Saccharopine dehydrogenase (NAD, L-glutamate forming), mitochondrial",Lysine Metabolism,False,False,False,False,False,False,True,False,False
+SERALANaEx,L-alanine/L-serine Na-dependent exchange (Ser-L in),"Transport, Extracellular",False,False,False,False,False,False,True,True,True
+SERGLYexR,L-Serine/Glycine reversible exchange,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+SERHL,L-Serine hydro-lyase,"Glycine, Serine, and Threonine Metabolism",False,False,True,False,False,False,False,False,False
+SERPT,Serine C palmitoyltransferase,Sphingolipid Metabolism,False,False,False,False,False,False,True,False,False
+SERt4,L-serine via sodium symport,"Transport, Extracellular",False,False,False,False,False,False,True,True,True
+SERtN1,"Serine transport (Na, H coupled)","Transport, Extracellular",False,False,False,False,False,False,True,False,False
+SK_T_antigen_g,DM T antigen[g],Intracellular source/sink,False,False,False,False,False,False,True,False,False
+SMS,Sphingomyelin synthase (homo sapiens),Sphingolipid Metabolism,False,False,False,False,False,False,True,False,False
+SO4CLtex2,Sulfate transport via chloride countertransport (2:1),"Transport, Extracellular",False,False,True,False,False,False,True,False,False
+SO4HCOtex,Sulfate transport via bicarbonate countertransport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+SO4OXAtex2,Sulfate transport via oxalate countertransport (2:1),"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+SO4t4_3,Sulfate transport via sodium symport,"Transport, Extracellular",False,False,True,False,False,False,True,False,False
+SOProd,SOProd,Unassigned,False,False,False,False,False,False,True,False,False
+SPODM,Superoxide dismutase,ROS Detoxification,False,False,False,False,False,False,True,False,False
+SPODMm,Superoxide dismutase,ROS Detoxification,False,False,False,False,False,False,True,False,False
+SQLEr,Squalene epoxidase  endoplasmic reticular  NADP ,Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+SQLSr,Squalene synthase,Cholesterol Metabolism,False,False,False,False,False,False,True,False,False
+STRDNCCPT1,Carnitine O-palmitoyltransferase,Carnitine shuttle,False,False,False,False,False,False,True,False,False
+STRDNCCPT2,Carnitine transferase,Carnitine shuttle,False,False,False,False,False,False,True,False,False
+STRDNCCRNt,Transport into the mitochondria (carnitine),Carnitine shuttle,False,False,False,False,False,False,True,False,False
+SUCCt4_2,Succinate transport via sodium symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+SUCCt4_3,Succinate transport via sodium symport,"Transport, Extracellular",False,False,True,False,False,False,True,False,False
+SUCCtm,Succinate transport  mitochondrial,"Transport, Mitochondrial",False,False,True,False,False,False,True,False,False
+SUCD1m,Succinate dehydrogenase,Citric Acid Cycle,False,False,True,False,False,False,True,False,False
+SUCOAS1m,Succinyl-CoA ligase (GDP-forming),Citric Acid Cycle,False,False,True,False,False,False,True,False,False
+SUCOASm,Succinate  CoA ligase  ADP forming ,Citric Acid Cycle,False,False,True,False,False,False,True,False,False
+TALA,Transaldolase,Pentose Phosphate Pathway,False,False,False,False,False,False,True,False,False
+THP2Ctp,"2,3,4,5-Tetrahydropyridine-2-carboxylate transport, peroxisomal","Transport, Peroxisomal",False,False,True,False,False,False,True,False,False
+THRALANaEx,L-alanine/L-threonine Na-dependent exchange (Thr-L in),"Transport, Extracellular",False,False,True,False,False,False,True,False,False
+THRGLYexR,L-threonine/glycine reversible exchange,"Transport, Extracellular",False,False,True,False,False,False,False,False,False
+THRt4,L-threonine  via sodium symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+THYMDt1,Thymd transport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+THYMt,Thymine reversible transport via facilated diffusion,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+TKT1,Transketolase,Pentose Phosphate Pathway,False,False,False,False,False,False,True,False,False
+TKT2,Transketolase,Pentose Phosphate Pathway,False,False,False,False,False,False,True,False,False
+TMDK1,Thymidine kinase (ATP:thymidine),Nucleotides,False,False,False,False,False,False,True,False,False
+TMDPP,Thymidine phosphorylase,Pyrimidine Catabolism,False,False,False,False,False,False,True,False,False
+TPI,Triose-phosphate isomerase,Glycolysis/Gluconeogenesis,False,False,True,False,False,False,True,False,False
+TRDR,Thioredoxin reductase (NADPH),Nucleotides,False,True,False,False,False,False,True,False,False
+TRIOK,Triokinase,Fructose and Mannose Metabolism,False,True,True,False,False,False,True,False,False
+TRPt4,L-tryptophan transport in via sodium symport,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+TTDCAtr_copy1,Fatty acid transport,"Transport, Extracellular",True,False,True,False,False,False,True,False,False
+TTDCAtr_copy2,Fatty acid transport,"Transport, Extracellular",True,True,True,True,False,False,True,False,False
+TYRTA,Tyrosine transaminase,Tyrosine metabolism,False,False,False,False,False,True,False,False,False
+TYRt4,L-tyrosine transport in via sodium symport,"Transport, Extracellular",False,False,False,False,False,True,True,False,False
+UAG2EMA,UDP-N-acetyl-D-glucosamine 2-epimerase (Hydrolysis),Aminosugar Metabolism,False,False,False,False,False,False,True,False,False
+UAGDP,UDP-N-acetylglucosamine diphosphorylase,Aminosugar Metabolism,False,False,False,False,False,False,True,False,False
+UDPG4E,UDPglucose 4-epimerase,Galactose metabolism,False,False,True,False,False,False,False,False,False
+UMPK,UMP kinase,Nucleotides,True,True,False,False,False,False,True,False,False
+UMPK2,UMP kinase (CTP),Nucleotides,False,False,False,False,False,False,True,False,False
+UMPK3,UMP kinase (UTP),Nucleotides,False,False,False,False,False,False,True,False,False
+UMPK4,UMP kinase (GTP),Nucleotides,False,False,False,False,False,False,True,False,False
+URAt,Uracil transport via facilated diffusion,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+URCN,Urocanase,Histidine Metabolism,False,False,True,False,False,False,True,False,False
+UREAt,Urea transport via facilitate diffusion,"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+UREAt5,"Urea, water cotransport","Transport, Extracellular",False,False,False,False,False,False,True,False,False
+UREAtm,Urea transport via diffusion,Urea cycle/amino group metabolism,False,False,False,False,False,False,True,False,False
+URIK1,Uridine kinase  ATPUridine ,Pyrimidine Biosynthesis,False,False,False,False,False,False,True,False,False
+VALTA,Valine transaminase,"Valine, Leucine, and Isoleucine Metabolism",False,False,False,False,False,False,True,False,False
+VALtec,L-valine transport via diffusion (extracellular to cytosol),"Transport, Extracellular",False,False,False,False,False,False,True,False,False
+thr_mt,Transport reaction,Unassigned,False,False,True,False,False,False,True,False,False

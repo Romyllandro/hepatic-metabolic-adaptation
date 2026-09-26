@@ -1,0 +1,52 @@
+{
+  "_comment": "Copy to pipeline_config.json and edit. Relative paths are resolved against project_root.",
+  "project_root": ".",
+  "source_root": "src",
+  "results_root": "results",
+  "python_executable": "python",
+  "parameters": {
+    "solver": "gurobi",
+    "objective": "BIOMASS_mm_1_no_glygln",
+    "eflux_quantile": 0.95,
+    "eflux_floor": 0.1,
+    "eflux_cap": 1000,
+    "edge_abs_diff_threshold": 0.2,
+    "fdr": 0.05,
+    "rq1_inference_matrix": "batch_corrected"
+  },
+  "inputs": {
+    "model": "inputs/models/iMM1415.json",
+    "diet_bounds": "inputs/bulk/expanded_diet_bounds_flat.json",
+    "gene_mapping": "inputs/bulk/mouse_entrez_to_symbol.csv",
+    "rq1_expression": "inputs/bulk/GSEMERGED_SCD_HFD_KD_WD_gene_expression.csv",
+    "rq1_sample_metadata": "inputs/bulk/RQ1_sample_metadata.csv",
+    "reaction_annotations": "inputs/bulk/RQ4_reaction_annotations.csv",
+    "positive_controls": "configs/positive_controls.json",
+    "rq2_strain_expression": {
+      "129S1SvImJ": "inputs/strains/male-129S1SvImJ-GSE182668_HFD_SCD_gene_expression.csv",
+      "AJ": "inputs/strains/male-AJ-GSE182668_HFD_SCD_gene_expression.csv",
+      "C57BL6J": "inputs/strains/male-C57BL6J-GSE182668_HFD_SCD_gene_expression.csv",
+      "CASTEiJ": "inputs/strains/male-CASTEiJ-GSE182668_HFD_SCD_gene_expression.csv",
+      "DBA2J": "inputs/strains/male-DBA2J-GSE182668_HFD_SCD_gene_expression.csv",
+      "NODShiLtJ": "inputs/strains/male-NODShiLtJ-GSE182668_HFD_SCD_gene_expression.csv",
+      "NZOHlLtJ": "inputs/strains/male-NZOHlLtJ-GSE182668_HFD_SCD_gene_expression.csv",
+      "PWKPhJ": "inputs/strains/male-PWKPhJ-GSE182668_HFD_SCD_gene_expression.csv",
+      "WSBEiJ": "inputs/strains/male-WSBEiJ-GSE182668_HFD_SCD_gene_expression.csv"
+    },
+    "rq3_sc_data": "inputs/single_cell/expression_matrix.csv",
+    "rq3_metadata": "inputs/single_cell/cell_metadata_fixed.csv",
+    "rq3_condition_mapping": {"Chow": "SCD", "WesternDiet": "WD"},
+    "rq4_metatranscriptome": "inputs/microbiome/Meta_GSE104913.csv",
+    "rq4_reviewed_species_map": "configs/curated_species_to_agora_REVIEWED_v3.csv",
+    "rq4_hepatic_expression": "inputs/strains/male-C57BL6J-GSE182668_HFD_SCD_gene_expression.csv",
+    "agora_dir": "C:/PATH/TO/AGORA2_mat"
+  },
+  "ecoli_benchmark": {
+    "model": "inputs/models/iJO1366.json",
+    "objective": "BIOMASS_Ec_iJO1366_core_53p95M",
+    "transcriptomes": "inputs/ecoli_benchmark/transcriptomes.csv",
+    "measured_modules": "inputs/ecoli_benchmark/measured_flux_modules_21reaction.csv",
+    "uptakes": "inputs/ecoli_benchmark/uptakes.csv",
+    "prepared_dir": "inputs/ecoli_benchmark/prepared_def"
+  }
+}

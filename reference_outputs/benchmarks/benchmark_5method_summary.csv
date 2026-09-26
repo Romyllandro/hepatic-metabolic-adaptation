@@ -1,0 +1,11 @@
+method,regime,mean_r,n_conditions
+eflux,AC,0.7887,8
+gimme,AC,0.7266,8
+pfba,AC,0.7887,8
+reduced_engine,AC,0.7887,8
+riptide,AC,0.7167,8
+eflux,DC,0.8167,8
+gimme,DC,0.8491,8
+pfba,DC,0.8351,8
+reduced_engine,DC,0.8167,8
+riptide,DC,0.8075,8

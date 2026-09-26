@@ -1,0 +1,9 @@
+control,comparison,n_reactions,test_mean_abs,baseline_mean_abs,fold_test_vs_baseline,expected,observed,passed,method,objective
+fatty_acid_oxidation,HFD_vs_SCD,48,0.013614614363423613,0.012938590191566667,1.052248673298083,increase,increase,True,three_layer,BIOMASS_mm_1_no_glygln
+fatty_acid_oxidation,HFD_vs_SCD,48,0.013614614363423613,0.012938590191566667,1.052248673298083,increase,increase,True,eflux,BIOMASS_mm_1_no_glygln
+fatty_acid_oxidation,HFD_vs_SCD,48,0.23797190597765638,0.18400401072978917,1.2932973853875356,increase,increase,True,gimme,BIOMASS_mm_1_no_glygln
+fatty_acid_oxidation,HFD_vs_SCD,48,0.0,0.0,,increase,no_change,False,pfba,BIOMASS_mm_1_no_glygln
+fatty_acid_oxidation,HFD_vs_SCD,48,0.013613865076697916,0.01310144348655,1.0391118421931118,increase,increase,True,three_layer,ATPM
+fatty_acid_oxidation,HFD_vs_SCD,48,0.013613865076697916,0.01310144348655,1.0391118421931118,increase,increase,True,eflux,ATPM
+fatty_acid_oxidation,HFD_vs_SCD,48,0.22131930671169167,0.16877569758743766,1.3113221267951374,increase,increase,True,gimme,ATPM
+fatty_acid_oxidation,HFD_vs_SCD,48,0.0,0.0,,increase,no_change,False,pfba,ATPM

@@ -1,0 +1,5 @@
+species_map,expected_mapped_species,observed_mapped_species,condition,retained_activity_before_renormalization,dropped_activity,positive_species_total,positive_species_modeled,positive_species_unmapped
+primary_27,27,27,ND_SCD,0.6714330121215075,0.3285669878784925,36,16,20
+primary_27,27,27,DD_HFD,0.7139875949125674,0.28601240508743275,35,21,14
+mapping_sensitivity_28,28,28,ND_SCD,0.6717438607382856,0.3282561392617144,36,17,19
+mapping_sensitivity_28,28,28,DD_HFD,0.7139875949125674,0.28601240508743275,35,21,14

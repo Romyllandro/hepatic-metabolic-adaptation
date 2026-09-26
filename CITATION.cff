@@ -1,0 +1,39 @@
+cff-version: 1.2.0
+message: "If you use this software or data, please cite the article and this archive."
+title: "Multi-scale constraint-based modeling of hepatic metabolic adaptation to diet: code and frozen results"
+version: 1.0.0
+date-released: 2026-09-26
+license: MIT
+repository-code: "https://github.com/sbbi-unl/hepatic-metabolic-adaptation"
+authors:
+  - family-names: Madadjim
+    given-names: Roland
+    affiliation: "Systems Biology and Biomedical Informatics Laboratory, School of Computing, University of Nebraska-Lincoln"
+  - family-names: Vechetti
+    given-names: Ivan
+    affiliation: "Department of Nutrition and Health Sciences, University of Nebraska-Lincoln"
+  - family-names: Cui
+    given-names: Juan
+    email: jcui@unl.edu
+    affiliation: "Systems Biology and Biomedical Informatics Laboratory, School of Computing, University of Nebraska-Lincoln"
+keywords:
+  - constraint-based modeling
+  - flux balance analysis
+  - E-Flux
+  - hepatic metabolism
+  - diet
+  - single-cell RNA-seq
+  - gut microbiome
+  - MICOM
+preferred-citation:
+  type: article
+  title: "Multi-scale constraint-based modeling reveals conserved and context-dependent hepatic metabolic adaptation to diet"
+  authors:
+    - family-names: Madadjim
+      given-names: Roland
+    - family-names: Vechetti
+      given-names: Ivan
+    - family-names: Cui
+      given-names: Juan
+  journal: "Briefings in Bioinformatics"
+  status: submitted

@@ -1,0 +1,17 @@
+Subsystem,n_threshold_attributable,n_microbiome_dominant,mean_VE_microbiome,median_abs_microbiome_delta
+R Group Synthesis,8,2,34.302491466582374,0.437500000002
+"Transport, Mitochondrial",7,4,62.453303653324085,0.1
+Cholesterol Metabolism,6,6,90.06992905678152,0.010276268407
+"Transport, Extracellular",5,4,78.03101271909614,0.8096535902990003
+"Valine, Leucine, and Isoleucine Metabolism",4,4,100.0,0.1
+"Transport, Peroxisomal",3,1,27.455133720956454,0.0999999999999999
+Pentose Phosphate Pathway,2,2,100.0,0.015077484532
+Pyruvate Metabolism,2,0,50.0,1.557928521047
+Steroid Metabolism,2,0,46.761067700697566,0.0150853695465
+Vitamin A Metabolism,2,0,34.81353174206052,1.462498272708
+Tyrosine metabolism,1,1,100.0,0.1
+Fatty acid elongation,1,0,0.0248160211116045,0.0501989456240004
+Glycerophospholipid Metabolism,1,0,0.0101151365304505,0.0503734574510001
+Glycolysis/Gluconeogenesis,1,0,0.0102578570460566,0.0503850416089992
+Miscellaneous,1,0,0.6584558135896857,0.050175095884
+Unassigned,1,0,0.5167556469883531,0.1994386878669996

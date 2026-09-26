@@ -1,0 +1,27 @@
+{
+  "dataset": "GSE101657",
+  "sample_counts": {
+    "HFD": 6,
+    "SCD": 5
+  },
+  "methods": [
+    "three_layer",
+    "eflux",
+    "gimme",
+    "pfba"
+  ],
+  "objectives": [
+    "BIOMASS_mm_1_no_glygln",
+    "ATPM"
+  ],
+  "eflux": {
+    "quantile": 0.95,
+    "floor": 0.1,
+    "cap": 1000.0
+  },
+  "gimme": {
+    "threshold_quantile": 0.25,
+    "objective_fraction": 0.9
+  },
+  "elapsed_seconds": 221.48698806762695
+}

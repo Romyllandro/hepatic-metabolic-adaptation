@@ -1,0 +1,37 @@
+module_short,rnx_relationship,reaction_id,status
+Ace_Ex,"( ACt2r , ACKr , PTAr ) + ACS",,uptake_skipped
+Fru_Ex,"( FRUpts , FRUK )",,uptake_skipped
+Gal_Ex,"( GALabc , GALKr , UGLT , PGMT )",,uptake_skipped
+Glc_Ex,( GLCpts ),,uptake_skipped
+Gly_Ex,"( GlycUpt , GLYK , G3PD5 )",,uptake_skipped
+Gln_Ex,"( GlcnUpt , GNK )",,uptake_skipped
+Pyr_Ex,( PYRt2r ),,uptake_skipped
+Suc_Ex,( SUCCt ),,uptake_skipped
+Fum_Ex,(FUM_SEC),,uptake_skipped
+Lac_Ex,"(LDH_D, D_LACt2)",,uptake_skipped
+PGI,( PGI ),PGI,ok
+PFK-FBP,(PFK - FBP),,composite
+FBA,( FBA),FBA,ok
+TPI,( TPI ),TPI,ok
+Middle_EMP,"(GAPD, PGK)",GAPD,ok
+Low_EMP,"(PGM , ENO)",PGM,ok
+PYK-PPS,( PYK - PPS ),,composite
+PDH,( PDH ),PDH,ok
+ED,"( EDD , EDA )",EDD,ok
+PPP_ED_branch,"( ZWF , PGL )",G6PDH2r,ok
+Early_PPP,(GND),GND,ok
+RPI,(RPI),RPI,ok
+RPE,(RPE),RPE,ok
+Non-ox_PPP,"( TKT1 , TALA)",TKT1,ok
+TKT2,( TKT2 ),TKT2,ok
+PPC,( PPC ),PPC,ok
+PPCK,( PPCK ),PPCK,ok
+Early_TCA,"( CS , ACONT , ACONT2 )",CS,ok
+ICDH,( ICDHyr ),ICDHyr,ok
+Int_TCA,"( AKGDH , SUCOAS )",AKGDH,ok
+SUCDH3,SUCDH3,SUCDi,ok
+FUM,FUM,FUM,ok
+MDH+MQO,( MDH + MQO ),,composite
+ME,( ME1 + ME2),,composite
+Glx_Cycle,"( ICL , MALS )",ICL,ok
+Growth_rate,,,nomap

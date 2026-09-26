@@ -1,0 +1,2 @@
+pathway,delta_diet_mean,delta_diet_sum,delta_microbiome_mean,delta_microbiome_sum,delta_total_mean,delta_total_sum,abs_diet_contribution_mean,abs_microbiome_contribution_mean,variance_explained_diet_mean,variance_explained_microbiome_mean,n_reactions
+Unknown,-0.014363280980625875,-53.51758493381201,-0.000511287797877885,-1.9050583348929995,-0.01487456877850376,-55.42264326870501,0.09185430836146538,0.004104857191935857,10.075621185308544,0.8744593299893632,3726

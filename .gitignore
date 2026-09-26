@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+results/
+pipeline_config.json
+*.log
+.ipynb_checkpoints/
+zenodo_upload/
+inputs/single_cell/expression_matrix.csv
+.DS_Store
+Thumbs.db

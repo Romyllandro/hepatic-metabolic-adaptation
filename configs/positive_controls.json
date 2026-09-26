@@ -1,0 +1,127 @@
+{
+  "_provenance": "Reaction sets and expectations transcribed from validation_04_positive_controls.py (SM10.4). FAO set resolved by subsystem match against RQ4_reaction_annotations.csv, matching that script's runtime behaviour.",
+  "controls": [
+    {
+      "name": "fatty_acid_oxidation",
+      "reaction_ids": [
+        "ETF",
+        "ETFQO",
+        "FAOXC11",
+        "FAOXC140",
+        "FAOXC150m",
+        "FAOXC160",
+        "FAOXC16080m",
+        "FAOXC16080x",
+        "FAOXC16180m",
+        "FAOXC170m",
+        "FAOXC180",
+        "FAOXC180x",
+        "FAOXC1811601m",
+        "FAOXC1811602m",
+        "FAOXC1811603m",
+        "FAOXC182806m",
+        "FAOXC18280m",
+        "FAOXC183803m",
+        "FAOXC183806m",
+        "FAOXC183806x",
+        "FAOXC18480m",
+        "FAOXC18480x",
+        "FAOXC200180m",
+        "FAOXC200180x",
+        "FAOXC2031836m",
+        "FAOXC204",
+        "FAOXC204184m",
+        "FAOXC2051843m",
+        "FAOXC2051843x",
+        "FAOXC2242046m",
+        "FAOXC2242046x",
+        "FAOXC2251836m",
+        "FAOXC2251836x",
+        "FAOXC2252053m",
+        "FAOXC2252053x",
+        "FAOXC226",
+        "FAOXC226205m",
+        "FAOXC226205x",
+        "FAOXC240200x",
+        "FAOXC241181x",
+        "FAOXC2442246x",
+        "FAOXC2452253x",
+        "FAOXC2452256x",
+        "FAOXC246226x",
+        "FAOXC260240x",
+        "FAOXC80",
+        "PHYHx",
+        "PEROXx"
+      ],
+      "aggregate": "mean_abs",
+      "comparisons": [
+        "HFD_vs_SCD",
+        "KD_vs_SCD",
+        "WD_vs_SCD"
+      ],
+      "expected_direction": "increase"
+    },
+    {
+      "name": "cholesterol_synthesis",
+      "reaction_ids": [
+        "HMGCOARr",
+        "HMGCOARx",
+        "SQLSr",
+        "SQLEr",
+        "LNSTLSr",
+        "DHCR241r",
+        "DHCR242r",
+        "DHCR243r",
+        "DHCR71r",
+        "DHCR72r",
+        "C14STRr",
+        "C3STKR2r"
+      ],
+      "aggregate": "mean_abs",
+      "comparisons": [
+        "WD_vs_SCD"
+      ],
+      "expected_direction": "increase"
+    },
+    {
+      "name": "ketogenesis_pathway",
+      "reaction_ids": [
+        "HMGCOASm",
+        "BDHm",
+        "ACACT1m",
+        "ADCim",
+        "ACACt2m",
+        "EX_acac_e"
+      ],
+      "aggregate": "mean_abs",
+      "comparisons": [
+        "KD_vs_SCD",
+        "WD_vs_SCD"
+      ],
+      "expected_direction": "increase"
+    },
+    {
+      "name": "marker_acetoacetate_export",
+      "reaction_ids": [
+        "EX_acac_e"
+      ],
+      "aggregate": "mean_abs",
+      "comparisons": [
+        "WD_vs_SCD"
+      ],
+      "expected_direction": "increase"
+    },
+    {
+      "name": "marker_HMGCOASm_ketogenic",
+      "reaction_ids": [
+        "HMGCOASm"
+      ],
+      "aggregate": "mean_abs",
+      "comparisons": [
+        "KD_vs_SCD"
+      ],
+      "expected_direction": "increase",
+      "_note": "Known caveat: this control was NOT met at pooled-bulk level in the production run (SM10.5). Retained so the benchmark reports it for all three methods on equal terms."
+    }
+  ]
+}

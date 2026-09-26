@@ -1,0 +1,258 @@
+{
+  "LICENSE_NOT_INCLUDED.txt": {
+    "sha256": "a353887eae1f43549d13445ceb1fa012e4ab2eb3edc7bf976d1d5faa97ef547a",
+    "bytes": 141
+  },
+  "README_START_HERE.md": {
+    "sha256": "b2d6ed6fd67bab85654dbf2d715cb0f2fd010df9c86bb38fcc77838d1b970bba",
+    "bytes": 7173
+  },
+  "configs/curated_species_to_agora_REVIEWED_v3.csv": {
+    "sha256": "91c016023e48e8a7718b5442f99c4deaf43bc4e53de9c8bfa68298130de545fe",
+    "bytes": 11068
+  },
+  "configs/curated_species_to_agora_REVIEWED_v3_QC.txt": {
+    "sha256": "3f61bd8dc91b0f1aecaac015fb8e1995dc21d74f1c84b6f8e9b2a49f9e79d298",
+    "bytes": 799
+  },
+  "configs/positive_controls.json": {
+    "sha256": "466063b813d62cd56cf7512729c18da5e77e34bcca45cda64dbf2ab9661a869c",
+    "bytes": 3012
+  },
+  "docs/REPRODUCIBILITY_QUALIFICATIONS.md": {
+    "sha256": "0c1bbeaeb631010cd626d648fd0a8b6041182e4a2a5ed0defbae418e82618da4",
+    "bytes": 921
+  },
+  "docs/STAGE_TO_MANUSCRIPT_MAP.md": {
+    "sha256": "785c6d400cf46abc5be876eb84ca5124b24514cd9f1e2ebcee1ee9634f7060f8",
+    "bytes": 1170
+  },
+  "environment.yml": {
+    "sha256": "9a5cbe14f7546562676bfae2dd62b1d169731573e15624a96f87d72b65253553",
+    "bytes": 270
+  },
+  "inputs/INPUT_MANIFEST.csv": {
+    "sha256": "7d76f44df303663251bd1a92123d866cb7f289e306672c8a25bbc5312a11aaec",
+    "bytes": 1524
+  },
+  "inputs/README_INPUTS.md": {
+    "sha256": "25015974572687bf0ab0f62d8313f5566d90a1dc3c97d7c6a5b0800847274c94",
+    "bytes": 1349
+  },
+  "pipeline_config.example.json": {
+    "sha256": "146d77d4389cfa7a249f622275ca3081de601e073ad94356b4d57d4109fee9e7",
+    "bytes": 2112
+  },
+  "reference_outputs/EXPECTED_FROZEN_RESULTS.json": {
+    "sha256": "bbada878ce1a80bd63c03aebf17f41cedda0c97eddc6bc118a72f654016efcb2",
+    "bytes": 1373
+  },
+  "reference_outputs/final_cross_rq/RQ4_mapping_coverage_QC.csv": {
+    "sha256": "5e3969d94a56c1f4096bb7410d62d17af120cf7d6e0af90a20018dbd39bab834",
+    "bytes": 512
+  },
+  "reference_outputs/final_cross_rq/RQ4_portal_tradeoff_summary.csv": {
+    "sha256": "5423b0d1af79681ce258abc84fab60708507560037fd76531d6f4af0f71c5605",
+    "bytes": 294
+  },
+  "reference_outputs/final_cross_rq/RQ4_primary_microbiome_dominant_reactions.csv": {
+    "sha256": "693e4dc153543b68d8e17981ed2860dbd7a390c985ad4f4d57b566b308044ede",
+    "bytes": 8592
+  },
+  "reference_outputs/final_cross_rq/RQ4_primary_pathway_attribution.csv": {
+    "sha256": "8ba9abe57808e53379794f4813b69ff4067dc3e6fb6df47137d5bd56b8d99514",
+    "bytes": 1014
+  },
+  "reference_outputs/final_cross_rq/RQ4_primary_threshold_attributable_reactions.csv": {
+    "sha256": "023d9cf827417db6621b3c6685f973b7d5558970bed3d152cd3865b4145ecde5",
+    "bytes": 15703
+  },
+  "reference_outputs/final_cross_rq/RQ4_threshold_sensitivity_summary.csv": {
+    "sha256": "36aacf883c3c7406a95becd6a2414c9725c32a4e0d92376866e57662a10cc187",
+    "bytes": 1655
+  },
+  "reference_outputs/final_cross_rq/cross_RQ_pathway_matrix_final.csv": {
+    "sha256": "6c8df87d665ba8964648f41b9f2b46f11f478adeae4b407341403f0f13317d09",
+    "bytes": 4739
+  },
+  "reference_outputs/final_cross_rq/cross_RQ_reaction_tracing_final.csv": {
+    "sha256": "691791702c5c70596108c1a401cb7a12374ee70a1c5a47091342a21178bf1118",
+    "bytes": 5242
+  },
+  "reference_outputs/final_cross_rq/cross_RQ_summary_final.json": {
+    "sha256": "9c60cf317c67c5167c34b8f3c95ccd91ea4c1b7782489c2a58db002265bef517",
+    "bytes": 1179
+  },
+  "reference_outputs/final_figures/Figure2_RQ1_revised.png": {
+    "sha256": "96932e77e9c9f990329818cb1b25f2e48c63c969f0feb52c54ae1b47ba8fc539",
+    "bytes": 216725
+  },
+  "reference_outputs/final_figures/Figure3_RQ2_revised.png": {
+    "sha256": "5605dfea952c0e1ad702763a89e13ccdef65fd6e8356ebbc985261a25457b36a",
+    "bytes": 208852
+  },
+  "reference_outputs/final_figures/Figure6_RQ4_final.png": {
+    "sha256": "98c95bcc1441b7938d8684b6a2c35a88135f6fa3e942b083d70a9973780454de",
+    "bytes": 563426
+  },
+  "reference_outputs/final_figures/Figure7_crossRQ_final.png": {
+    "sha256": "deb84bec226d7550c2240bba6b8e46c38d707dec29f30a4e9abc4d76ca635083",
+    "bytes": 402797
+  },
+  "requirements.txt": {
+    "sha256": "44999b22ac0512a6e589cd6b2c03f2d05d01907021cec39f92b80c51e54087ec",
+    "bytes": 99
+  },
+  "run_full_pipeline.py": {
+    "sha256": "a5e5e91d68c4f8e5c80eecb7c08d45c3ec4d1bab057462fbc1acde7d0ac402c4",
+    "bytes": 13972
+  },
+  "run_full_pipeline_windows.bat": {
+    "sha256": "798744eca898f9fbf04803f4fa747ba66d1865c4c0605b62cccd3bdeb22ba4a9",
+    "bytes": 161
+  },
+  "src/benchmarking/benchmark_ecoli_13c_methods.py": {
+    "sha256": "466a7d7fb924f477163794c2a8448bf192f5a1f6a36aacd574a4e5ae761ea098",
+    "bytes": 11507
+  },
+  "src/benchmarking/benchmark_liver_methods.py": {
+    "sha256": "d7ac5c31a870ced78e436460b71e27c0ead08e4d1fd6ca8b3cc8590d529805dc",
+    "bytes": 16058
+  },
+  "src/benchmarking/benchmark_methods_core.py": {
+    "sha256": "a279099ec90deaf22f4c82eca5cfcff33d8ab7b7130a2d399ec940dd44e8690e",
+    "bytes": 11319
+  },
+  "src/benchmarking/legacy_input_builders/build_benchmark_inputs.py": {
+    "sha256": "6adf8b86ce9d3748f6e2e18daf6dac38d6e3ff2b3d3a31d2f1c0916fde811706",
+    "bytes": 9231
+  },
+  "src/benchmarking/legacy_input_builders/build_measured_fluxes.py": {
+    "sha256": "e14ce5d9938d0653ae2342ce05c5d15b4283e6b45a087401c66277995bbccc2d",
+    "bytes": 5198
+  },
+  "src/benchmarking/legacy_input_builders/prepare_benchmark_inputs.py": {
+    "sha256": "280361451a282ae9a07ea23b2e1daf1c62544d6eb3035567a69021867b497a36",
+    "bytes": 6059
+  },
+  "src/benchmarking/recompute_benchmark_stats_robust_v1.py": {
+    "sha256": "906fa8f92f46727ba723ef082b2a094348f674d8015cb9b42ccae4102ea027dd",
+    "bytes": 7124
+  },
+  "src/benchmarking/sweep_threelayer_pipeline_v2.py": {
+    "sha256": "3f11efdcb797bbac27e7643e3fb7d781ea09bf80ae3e3df49d2eae3e9ede968a",
+    "bytes": 10747
+  },
+  "src/benchmarking/validation_02_layer_ablation_v2.py": {
+    "sha256": "bf23c1f6ba293817aa19cafbd4a05617b49df0e2056b873750fc1670553cd8b6",
+    "bytes": 6491
+  },
+  "src/benchmarking/validation_03_determinism_v2.py": {
+    "sha256": "ef5a138fb00fd9dbbab6d02d8e36ed1b2ab66066de3310b884024543f0bdbcad",
+    "bytes": 3802
+  },
+  "src/common/deterministic_solver_v2.py": {
+    "sha256": "de280f87880ff7cd17d98c07886b1890fbb64ce2d00d4af8199abcec3d02fc81",
+    "bytes": 3522
+  },
+  "src/cross_rq/run_cross_rq_final.py": {
+    "sha256": "748aa208d8ee99a8be5f868aa65af79ca39f2f5428ea82a59a21ef8747b19895",
+    "bytes": 25405
+  },
+  "src/reporting/generate_figures_rq1_rq2.py": {
+    "sha256": "2a48ac98ed0b1f28e835b5671c5ed495185671b505adc82af187876164da0e75",
+    "bytes": 13335
+  },
+  "src/reporting/generate_final_figures_rq4_crossrq.py": {
+    "sha256": "714a5ccc92f837e79840d8eeeae6b6d272d9efe3b5483b41dbf196f85ee20572",
+    "bytes": 7104
+  },
+  "src/rq1_bulk/batch_correct_flux_by_dataset_3d_revised.py": {
+    "sha256": "9b420311f9b6689e80766d3e2b7a2c80dd6d95f37b52b8ed5f6965eeeb3aec66",
+    "bytes": 8295
+  },
+  "src/rq1_bulk/combined_analysis_interactive_generic_revised.py": {
+    "sha256": "67ca411d12574b75764214b996b66ad7a76d7a700ceb038be0cec05d294e0493",
+    "bytes": 4436
+  },
+  "src/rq1_bulk/comprehensive_flux_analysis_revised.py": {
+    "sha256": "f13d0cc8094e792a7cf0d90be782552671c5e410392e6531adfa9537a1701403",
+    "bytes": 22314
+  },
+  "src/rq1_bulk/fva_refinement_common.py": {
+    "sha256": "8b10de827e8d700447e62cb341b61f29d9eb8bfca943eb981efff75441c497b1",
+    "bytes": 7676
+  },
+  "src/rq1_bulk/map_fixv5_multigroupsv8_layered_manuscript_rerun.py": {
+    "sha256": "22baf7ecae950c9b90e6afd10d07e4ecb498076327969d72466fa6f70b0c3ee2",
+    "bytes": 59163
+  },
+  "src/rq1_bulk/run_flux_pipeline_RQ1_revision.py": {
+    "sha256": "6c4071146c0d3f3bdb7fb7e0042e0fbfb4796ecb09f921dea72c85a3393e9ee6",
+    "bytes": 7942
+  },
+  "src/rq1_bulk/run_rq1_cohort_representative_fva.py": {
+    "sha256": "934ed12518d47d76c76d229d29057be90a220d10aaaafeed98c393e10a0954c1",
+    "bytes": 16651
+  },
+  "src/rq2_strains/fva_refinement_common.py": {
+    "sha256": "8b10de827e8d700447e62cb341b61f29d9eb8bfca943eb981efff75441c497b1",
+    "bytes": 7676
+  },
+  "src/rq2_strains/rq2_cross_strain_analysis_revised.py": {
+    "sha256": "a398293209126d2129aed2ad23728fcb5cb0a976ec9e050e7513d70fd6538f97",
+    "bytes": 8351
+  },
+  "src/rq2_strains/run_layered_executor_revised.py": {
+    "sha256": "94ab25f05106d293ca42e1aecfca0be07166bfb7975c903c9e612fb4420140d2",
+    "bytes": 15316
+  },
+  "src/rq2_strains/run_rq2_targeted_parsimonious_fva.py": {
+    "sha256": "d9b72ff0249845bdd848c6f80ef0ed713f981e56eaa943957d85167648bd72e3",
+    "bytes": 8781
+  },
+  "src/rq3_single_cell/rq3_FINAL_COMPLETE_REVISED.py": {
+    "sha256": "8e1440b39e8c17fa81c36d46131a2cb49c3a4b6fcccd05321ef50362569edf2f",
+    "bytes": 53613
+  },
+  "src/rq3_single_cell/run_rq3_sensitivity_suite.py": {
+    "sha256": "af2b738e4981c957f4ebd794c41005ed3655f148e58ee847bd37b68f907090b0",
+    "bytes": 9201
+  },
+  "src/rq4_microbiome/prepare_rq4_species_maps_final_v2.py": {
+    "sha256": "d1dfb6bd41b083877fb5eb260717ea483190276cdf6a53e9c5255b365aed3bb4",
+    "bytes": 6241
+  },
+  "src/rq4_microbiome/rq4_attribution_analysis_source.py": {
+    "sha256": "0d06b8efdf9fc725ca4ab374b47824b296ee3073a935a122f6c5b64d44c9b100",
+    "bytes": 51088
+  },
+  "src/rq4_microbiome/rq4_hepatic_integration_CORRECTED_v14_source.py": {
+    "sha256": "8c13d79cd6a22de968572a4548e900a9ea5d04485d723a75bd283bc0704412b4",
+    "bytes": 70378
+  },
+  "src/rq4_microbiome/rq4_hepatic_integration_final_v2.py": {
+    "sha256": "9d8937c7cedf5ba7e706d3c99630f8a9e37496853836c29042c420425dfa6db8",
+    "bytes": 6283
+  },
+  "src/rq4_microbiome/rq4_microbiome_community_modeling_final_v3.py": {
+    "sha256": "7341ca3c91924329af298b4a458f6ab3c292663f1beac64aafd5fad7a2cdde58",
+    "bytes": 78971
+  },
+  "src/rq4_microbiome/run_rq4_full_final_v3.py": {
+    "sha256": "ddffd882c9b346f116e1506ad246abe7503d25811439ba413af15a3bacb0bd6a",
+    "bytes": 2461
+  },
+  "src/rq4_microbiome/run_rq4_sensitivity_suite_final_v3.py": {
+    "sha256": "edd176d11e64a688b4c67d237862cb83c81164aeb794eb88b096137d24e82c04",
+    "bytes": 14230
+  },
+  "src/utils/capture_environment.py": {
+    "sha256": "958b7079be5ef78c0a445f8f055da217c9b5a0fec176787d06e79e3e2217d493",
+    "bytes": 1532
+  },
+  "src/utils/verify_final_counts.py": {
+    "sha256": "ed9582726a582212105c69555696cd26124ff697a74804d721094a269197187e",
+    "bytes": 1033
+  }
+}

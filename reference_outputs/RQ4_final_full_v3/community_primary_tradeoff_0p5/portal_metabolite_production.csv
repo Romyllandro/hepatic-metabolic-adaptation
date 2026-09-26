@@ -1,0 +1,11 @@
+Condition,Metabolite,Metabolite_ID,Flux,Importance
+ND_SCD,acetate,ac,0.9651625058097348,high
+ND_SCD,ammonia / ammonium,nh4,-1.2578021500579666,high
+ND_SCD,riboflavin / vitamin B2,ribflv,-0.0016413104119550228,low
+ND_SCD,thiamine / vitamin B1,thm,-0.00028937674670112583,low
+ND_SCD,niacin / nicotinate / vitamin B3,nac,-0.0016411384709927798,low
+DD_HFD,acetate,ac,0.19935925217074332,high
+DD_HFD,ammonia / ammonium,nh4,-1.0745111628799333,high
+DD_HFD,riboflavin / vitamin B2,ribflv,-0.0010483734309661742,low
+DD_HFD,thiamine / vitamin B1,thm,-0.000484157302192045,low
+DD_HFD,niacin / nicotinate / vitamin B3,nac,-0.001048373430966129,low

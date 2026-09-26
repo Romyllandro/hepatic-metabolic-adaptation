@@ -1,0 +1,18 @@
+Metatranscriptome species: 57
+Matched to normalized draft row: 57
+Included with validated AGORA model: 26
+Excluded/pending: 31
+
+Included mapping basis:
+mapping_basis
+exact    26
+
+Output mapping statuses:
+mapping_status
+excluded_no_model          29
+validated_exact            26
+excluded_pending_review     2
+
+UNRESOLVED REVIEW ITEMS:
+Bacteroides fragilis NCTC 9343 strain ATCC 25285: draft status='unique_prefix', proposed model=Bacteroides_fragilis_NCTC_9343.mat, but included=true was not explicitly set. Review and accept/exclude this row.
+Campylobacter jejuni subsp jejuni NCTC 11168 = ATCC 700819: draft status='unique_prefix', proposed model=Campylobacter_jejuni_subsp_jejuni_NCTC_11168_BN148.mat, but included=true was not explicitly set. Review and accept/exclude this row.

@@ -1,0 +1,43 @@
+{
+  "project_root": ".",
+  "source_root": "src",
+  "results_root": "reviewer_results",
+  "python_executable": "python",
+  "parameters": {
+    "solver": "gurobi"
+  },
+  "inputs": {
+    "model": "inputs/iMM1415.json",
+    "diet_bounds": "inputs/expanded_diet_bounds_flat.json",
+    "gene_mapping": "inputs/mouse_entrez_to_symbol.csv",
+    "rq1_expression": "inputs/GSEMERGED_SCD_HFD_KD_WD_gene_expression.csv",
+    "rq2_strain_expression": {
+      "129S1SvImJ": "inputs/data/GSE182668/male-129S1SvImJ-GSE182668_HFD_SCD_gene_expression.csv",
+      "C57BL6J": "inputs/data/GSE182668/male-C57BL6J-GSE182668_HFD_SCD_gene_expression.csv",
+      "AJ": "inputs/data/GSE182668/male-AJ-GSE182668_HFD_SCD_gene_expression.csv",
+      "CASTEiJ": "inputs/data/GSE182668/male-CASTEiJ-GSE182668_HFD_SCD_gene_expression.csv",
+      "DBA2J": "inputs/data/GSE182668/male-DBA2J-GSE182668_HFD_SCD_gene_expression.csv",
+      "PWKPhJ": "inputs/data/GSE182668/male-PWKPhJ-GSE182668_HFD_SCD_gene_expression.csv",
+      "WSBEiJ": "inputs/data/GSE182668/male-WSBEiJ-GSE182668_HFD_SCD_gene_expression.csv",
+      "NODShiLtJ": "inputs/data/GSE182668/male-NODShiLtJ-GSE182668_HFD_SCD_gene_expression.csv",
+      "NZOHlLtJ": "inputs/data/GSE182668/male-NZOHlLtJ-GSE182668_HFD_SCD_gene_expression.csv"
+    },
+    "rq3_sc_data": "inputs/RQ3_SINGLE_CELL_EXPRESSION.csv",
+    "rq3_metadata": "inputs/RQ3_SINGLE_CELL_METADATA.csv",
+    "rq3_condition_mapping": {
+      "Chow": "SCD",
+      "WesternDiet": "WD"
+    },
+    "rq4_metatranscriptome": "inputs/data/Meta_GSE104913.csv",
+    "rq4_reviewed_species_map": "configs/curated_species_to_agora_REVIEWED_v3.csv",
+    "agora_dir": "C:/PATH/TO/AGORA2_mat",
+    "rq4_hepatic_expression": "inputs/data/GSE182668/male-C57BL6J-GSE182668_HFD_SCD_gene_expression.csv"
+  },
+  "ecoli_benchmark": {
+    "model": "inputs/iJO1366.json",
+    "transcriptomes": "inputs/benchmark_inputs/ecoli/transcriptomes.csv",
+    "measured_modules": "inputs/benchmark_inputs/gerosa/measured_flux_modules.csv",
+    "uptakes": "inputs/benchmark_inputs/ecoli/uptakes.csv",
+    "objective": "BIOMASS_Ec_iJO1366_core_53p95M"
+  }
+}

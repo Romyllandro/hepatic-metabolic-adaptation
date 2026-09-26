@@ -1,0 +1,66 @@
+{
+  "model": {
+    "id": "iMM1415",
+    "reactions": 3726,
+    "metabolites": 2775,
+    "genes": 1375
+  },
+  "solver": {
+    "name": "gurobi",
+    "Threads": 1,
+    "Method": 1,
+    "NumericFocus": 3,
+    "Seed": 1
+  },
+  "bulk_eflux": {
+    "quantile": 0.95,
+    "floor": 0.1,
+    "cap": 1000
+  },
+  "single_cell_primary": {
+    "quantile": 0.99,
+    "floor": 0.001,
+    "cap": 10000,
+    "objective": "BIOMASS_mm_1_no_glygln"
+  },
+  "pfba_fraction": 1.0,
+  "rq1": {
+    "sample_counts": {
+      "SCD": 37,
+      "HFD": 38,
+      "KD": 12,
+      "WD": 12
+    },
+    "significant": {
+      "HFD_vs_SCD": 61,
+      "KD_vs_SCD": 50,
+      "WD_vs_SCD": 199,
+      "HFD_vs_KD": 2,
+      "HFD_vs_WD": 286
+    },
+    "shared_all3_SCD_referenced": 27,
+    "HFD_anchor_abs_adjusted_diff_ge_0p20": 20
+  },
+  "rq2": {
+    "magnitude_union": 105,
+    "universal_core": 16
+  },
+  "rq3": {
+    "primary_unique_responsive_reactions": 562
+  },
+  "rq4": {
+    "primary_species": 27,
+    "mapping_sensitivity_species": 28,
+    "primary_tradeoff": 0.5,
+    "portal_scale": 0.1,
+    "portal_mode": "forced",
+    "threshold_attributable_reactions": 47
+  },
+  "cross_rq": {
+    "RQ1_anchor_overlap_RQ2_universal": 0,
+    "RQ1_anchor_overlap_RQ3_WDChow": 18,
+    "RQ1_anchor_overlap_RQ4_threshold": 6,
+    "RQ1_anchor_overlap_RQ4_microbiome_dominant": 1,
+    "pathways_with_signal_all4": 6
+  }
+}

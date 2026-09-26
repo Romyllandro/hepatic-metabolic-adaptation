@@ -1,0 +1,10 @@
+name,tradeoff,objective,scale,portal_mode,species_map,n_reactions,n_measurable_microbiome,n_microbiome_dominant,n_stable,mean_ve_microbiome,mean_ve_diet
+primary,0.5,biomass,0.1,forced,primary_27,3726,307,29,3322,0.8744593299893632,10.075621185308544
+objective_atpm,0.5,atpm,0.1,forced,primary_27,3726,134,14,3465,0.5466760808106031,6.753377596054667
+portal_mode_soft,0.5,biomass,0.1,soft,primary_27,3726,306,30,3324,0.914871231967512,9.981532418059327
+portal_mode_availability,0.5,biomass,0.1,availability,primary_27,3726,93,6,3338,0.15410632562994087,10.286043969592818
+portal_scale_0p05,0.5,biomass,0.05,forced,primary_27,3726,304,27,3323,0.7867593264523327,10.109644323574503
+portal_scale_0p2,0.5,biomass,0.2,forced,primary_27,3726,298,30,3319,0.7854067242672108,10.19151222366623
+micom_tradeoff_0p3,0.3,biomass,0.1,forced,primary_27,3726,290,16,3334,0.5112366322280433,10.116782691443454
+micom_tradeoff_0p7,0.7,biomass,0.1,forced,primary_27,3726,299,20,3333,0.6497658154699169,10.058768806108182
+mapping_sensitivity_28_species,0.5,biomass,0.1,forced,mapping_sensitivity_28,3726,307,29,3322,0.874459329989363,10.075621185308544

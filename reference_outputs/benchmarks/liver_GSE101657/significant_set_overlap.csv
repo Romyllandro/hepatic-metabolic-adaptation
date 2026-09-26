@@ -1,0 +1,7 @@
+objective,method,reference,n_sig_reference,n_sig_method,n_intersection,jaccard_significant
+BIOMASS_mm_1_no_glygln,eflux,three_layer,26,26,26,1.0
+BIOMASS_mm_1_no_glygln,gimme,three_layer,26,50,3,0.0410958904109589
+BIOMASS_mm_1_no_glygln,pfba,three_layer,26,99,2,0.016260162601626018
+ATPM,eflux,three_layer,24,24,24,1.0
+ATPM,gimme,three_layer,24,8,0,0.0
+ATPM,pfba,three_layer,24,54,0,0.0

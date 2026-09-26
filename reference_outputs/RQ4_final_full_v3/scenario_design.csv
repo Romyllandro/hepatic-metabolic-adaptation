@@ -1,0 +1,9 @@
+name,tradeoff,objective,scale,portal_mode
+primary,0.5,biomass,0.1,forced
+objective_atpm,0.5,atpm,0.1,forced
+portal_mode_soft,0.5,biomass,0.1,soft
+portal_mode_availability,0.5,biomass,0.1,availability
+portal_scale_0p05,0.5,biomass,0.05,forced
+portal_scale_0p2,0.5,biomass,0.2,forced
+micom_tradeoff_0p3,0.3,biomass,0.1,forced
+micom_tradeoff_0p7,0.7,biomass,0.1,forced

@@ -1,0 +1,16 @@
+{
+  "title": "Multi-scale constraint-based modeling of hepatic metabolic adaptation to diet: code and frozen results (v1.0.0)",
+  "upload_type": "software",
+  "version": "1.0.0",
+  "description": "Code, inputs and frozen results for Madadjim, Vechetti & Cui, 'Multi-scale constraint-based modeling reveals conserved and context-dependent hepatic metabolic adaptation to diet' (Briefings in Bioinformatics, BIB-26-1735). A three-layer E-Flux architecture (diet exchange bounds, transporter capacities, intracellular capacities) on the iMM1415 mouse model is applied to six bulk liver cohorts, nine genetically diverse strains, a single-cell liver atlas and a MICOM gut community. Includes one orchestrator, automated verification of 34 manuscript headline numbers, figure scripts, benchmarks and sensitivity analyses. Large single-cell data and full production outputs are in the companion data record.",
+  "creators": [
+    {"name": "Madadjim, Roland", "affiliation": "University of Nebraska-Lincoln"},
+    {"name": "Vechetti, Ivan", "affiliation": "University of Nebraska-Lincoln"},
+    {"name": "Cui, Juan", "affiliation": "University of Nebraska-Lincoln"}
+  ],
+  "license": "MIT",
+  "keywords": ["constraint-based modeling", "flux balance analysis", "E-Flux", "hepatic metabolism", "diet", "single-cell", "gut microbiome", "MICOM", "genome-scale metabolic model"],
+  "related_identifiers": [
+    {"identifier": "https://github.com/sbbi-unl/hepatic-metabolic-adaptation", "relation": "isSupplementTo", "scheme": "url"}
+  ]
+}

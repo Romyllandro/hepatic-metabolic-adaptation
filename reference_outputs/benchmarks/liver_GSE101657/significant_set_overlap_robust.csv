@@ -1,0 +1,7 @@
+objective,method,reference,reference_n_significant,method_n_significant,intersection,union,jaccard
+BIOMASS_mm_1_no_glygln,eflux,three_layer,20,20,20,20,1.0
+BIOMASS_mm_1_no_glygln,gimme,three_layer,20,9,0,29,0.0
+BIOMASS_mm_1_no_glygln,pfba,three_layer,20,0,0,20,0.0
+ATPM,eflux,three_layer,13,13,13,13,1.0
+ATPM,gimme,three_layer,13,7,0,20,0.0
+ATPM,pfba,three_layer,13,0,0,13,0.0

@@ -1,0 +1,2 @@
+reference_objective,comparison_objective,spearman_mean_diff,directional_agreement_mean_diff,top100_jaccard,n_sig_reference,n_sig_comparison,significant_jaccard
+BIOMASS_mm_1_no_glygln,ATPM,0.6948349049052965,0.9500805152979066,0.5625,26,24,0.6129032258064516

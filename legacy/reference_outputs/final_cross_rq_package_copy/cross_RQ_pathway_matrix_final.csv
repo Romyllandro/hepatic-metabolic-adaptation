@@ -1,0 +1,60 @@
+Subsystem,RQ1_HFD_n_significant,RQ1_HFD_median_abs_adjusted_diff,RQ2_n_magnitude_responsive_union,RQ2_n_universal,RQ2_mean_N_strains,RQ3_WDChow_n_responsive,RQ3_WDChow_n_celltypes,RQ4_HFD_n_threshold_attributable,RQ4_HFD_n_microbiome_dominant,RQ4_HFD_mean_VE_microbiome,N_RQ_layers_with_signal
+R Group Synthesis,14.0,0.1820271093365167,5.0,0.0,6.2,15.0,23.0,8.0,2.0,34.302491466582374,4
+"Transport, Mitochondrial",3.0,0.3222600742431343,16.0,0.0,2.1875,48.0,23.0,7.0,4.0,62.453303653324085,4
+"Transport, Extracellular",8.0,0.09102172558232999,21.0,4.0,3.380952380952381,100.0,23.0,5.0,4.0,78.03101271909614,4
+"Transport, Peroxisomal",2.0,0.14656823202840535,1.0,0.0,1.0,22.0,21.0,3.0,1.0,27.455133720956454,4
+Pyruvate Metabolism,2.0,0.0640507216746766,4.0,1.0,3.0,5.0,18.0,2.0,0.0,50.0,4
+Fatty acid elongation,2.0,0.17663615151479525,1.0,0.0,7.0,2.0,23.0,1.0,0.0,0.0248160211116045,4
+Cholesterol Metabolism,2.0,0.0003566069844243,0.0,0.0,0.0,23.0,18.0,6.0,6.0,90.06992905678152,3
+"Valine, Leucine, and Isoleucine Metabolism",0.0,0.0,8.0,0.0,1.0,14.0,20.0,4.0,4.0,100.0,3
+Pentose Phosphate Pathway,1.0,0.0006427168698017,0.0,0.0,0.0,12.0,14.0,2.0,2.0,100.0,3
+Glycolysis/Gluconeogenesis,0.0,0.0,2.0,0.0,2.0,14.0,22.0,1.0,0.0,0.0102578570460566,3
+Miscellaneous,0.0,0.0,2.0,0.0,6.0,4.0,12.0,1.0,0.0,0.6584558135896857,3
+Extracellular exchange,6.0,0.18204345116465998,15.0,5.0,5.2,55.0,23.0,0.0,0.0,0.0,3
+Folate Metabolism,5.0,0.0155738381311169,2.0,0.0,3.5,10.0,22.0,0.0,0.0,0.0,3
+Citric Acid Cycle,3.0,0.3684232849932338,6.0,0.0,3.5,14.0,21.0,0.0,0.0,0.0,3
+Arginine and Proline Metabolism,2.0,0.20759604287894914,2.0,0.0,5.0,5.0,17.0,0.0,0.0,0.0,3
+Glutamate metabolism,1.0,0.227152389622341,2.0,1.0,5.0,4.0,23.0,0.0,0.0,0.0,3
+Glutathione Metabolism,1.0,0.227152389622341,1.0,0.0,1.0,1.0,13.0,0.0,0.0,0.0,3
+Steroid Metabolism,0.0,0.0,0.0,0.0,0.0,2.0,5.0,2.0,0.0,46.761067700697566,2
+Vitamin A Metabolism,0.0,0.0,0.0,0.0,0.0,10.0,13.0,2.0,0.0,34.81353174206052,2
+Glycerophospholipid Metabolism,0.0,0.0,0.0,0.0,0.0,20.0,15.0,1.0,0.0,0.0101151365304505,2
+Tyrosine metabolism,0.0,0.0,5.0,5.0,9.0,0.0,0.0,1.0,1.0,100.0,2
+,0.0,0.0,1.0,0.0,1.0,0.0,0.0,1.0,0.0,0.5167556469883531,2
+Fatty acid activation,3.0,0.1820434511646601,0.0,0.0,0.0,5.0,23.0,0.0,0.0,0.0,2
+Nucleotides,2.0,0.00116086860114795,0.0,0.0,0.0,36.0,21.0,0.0,0.0,0.0,2
+"Transport, Endoplasmic Reticular",2.0,0.0024073415498906,0.0,0.0,0.0,13.0,19.0,0.0,0.0,0.0,2
+Fatty Acid Metabolism,1.0,0.1638367601846348,0.0,0.0,0.0,2.0,14.0,0.0,0.0,0.0,2
+Pyrimidine Biosynthesis,1.0,0.0009872442423675,0.0,0.0,0.0,2.0,12.0,0.0,0.0,0.0,2
+Alanine and Aspartate Metabolism,0.0,0.0,3.0,0.0,1.6666666666666667,3.0,13.0,0.0,0.0,0.0,2
+Butanoate Metabolism,0.0,0.0,1.0,0.0,6.0,1.0,15.0,0.0,0.0,0.0,2
+"Glycine, Serine, and Threonine Metabolism",0.0,0.0,2.0,0.0,1.0,2.0,5.0,0.0,0.0,0.0,2
+Propanoate Metabolism,0.0,0.0,1.0,0.0,2.0,1.0,12.0,0.0,0.0,0.0,2
+Aminosugar Metabolism,0.0,0.0,0.0,0.0,0.0,7.0,1.0,0.0,0.0,0.0,1
+Biomass and maintenance functions,0.0,0.0,0.0,0.0,0.0,1.0,10.0,0.0,0.0,0.0,1
+Carnitine shuttle,0.0,0.0,0.0,0.0,0.0,7.0,15.0,0.0,0.0,0.0,1
+Cysteine Metabolism,0.0,0.0,4.0,0.0,2.5,0.0,0.0,0.0,0.0,0.0,1
+Fatty acid oxidation,0.0,0.0,0.0,0.0,0.0,5.0,6.0,0.0,0.0,0.0,1
+"Fatty acid oxidation, peroxisome",0.0,0.0,0.0,0.0,0.0,2.0,5.0,0.0,0.0,0.0,1
+Fructose and Mannose Metabolism,0.0,0.0,0.0,0.0,0.0,6.0,18.0,0.0,0.0,0.0,1
+Galactose metabolism,0.0,0.0,0.0,0.0,0.0,1.0,12.0,0.0,0.0,0.0,1
+Histidine Metabolism,0.0,0.0,0.0,0.0,0.0,4.0,5.0,0.0,0.0,0.0,1
+Inositol Phosphate Metabolism,0.0,0.0,0.0,0.0,0.0,2.0,10.0,0.0,0.0,0.0,1
+Intracellular demand,0.0,0.0,0.0,0.0,0.0,2.0,10.0,0.0,0.0,0.0,1
+Intracellular source/sink,0.0,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,1
+Lysine Metabolism,0.0,0.0,0.0,0.0,0.0,12.0,6.0,0.0,0.0,0.0,1
+Methionine Metabolism,0.0,0.0,0.0,0.0,0.0,3.0,1.0,0.0,0.0,0.0,1
+O-Glycan Biosynthesis,0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,1
+Oxidative Phosphorylation,0.0,0.0,0.0,0.0,0.0,5.0,14.0,0.0,0.0,0.0,1
+Purine Catabolism,0.0,0.0,0.0,0.0,0.0,2.0,10.0,0.0,0.0,0.0,1
+Pyrimidine Catabolism,0.0,0.0,0.0,0.0,0.0,9.0,14.0,0.0,0.0,0.0,1
+ROS Detoxification,0.0,0.0,0.0,0.0,0.0,2.0,13.0,0.0,0.0,0.0,1
+Salvage Pathway,0.0,0.0,0.0,0.0,0.0,1.0,9.0,0.0,0.0,0.0,1
+Sphingolipid Metabolism,0.0,0.0,0.0,0.0,0.0,6.0,13.0,0.0,0.0,0.0,1
+Starch and Sucrose Metabolism,0.0,0.0,0.0,0.0,0.0,8.0,22.0,0.0,0.0,0.0,1
+"Transport, Golgi Apparatus",0.0,0.0,0.0,0.0,0.0,2.0,1.0,0.0,0.0,0.0,1
+Triacylglycerol Synthesis,0.0,0.0,0.0,0.0,0.0,3.0,10.0,0.0,0.0,0.0,1
+Tryptophan metabolism,0.0,0.0,0.0,0.0,0.0,6.0,21.0,0.0,0.0,0.0,1
+Unknown,0.0,0.0,0.0,0.0,0.0,6.0,14.0,0.0,0.0,0.0,1
+Urea cycle/amino group metabolism,0.0,0.0,0.0,0.0,0.0,11.0,19.0,0.0,0.0,0.0,1
+beta-Alanine metabolism,0.0,0.0,0.0,0.0,0.0,1.0,2.0,0.0,0.0,0.0,1

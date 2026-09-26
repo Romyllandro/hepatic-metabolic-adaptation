@@ -1,0 +1,159 @@
+ReactionID,ReactionName,Subsystem,MetaboliteID,MetaboliteName,Coefficient,Diff(HFD-SCD),Ratio(HFD/SCD)
+EX_ala__L_e,L-Alanine exchange,Extracellular exchange,ala__L_e,L-Alanine,-1.0,-0.8205704463664402,0.5323678607040095
+EX_bhb_e,(R)-3-Hydroxybutanoate transport via H+ symport,Extracellular exchange,bhb_e,(R)-3-Hydroxybutanoate,-1.0,-0.298468346771453,0.562157909224528
+EX_acac_e,Acetoacetate exchange,Extracellular exchange,acac_e,Acetoacetate,-1.0,-0.3924850325708031,21.838754479908385
+EX_co2_e,CO2 exchange,Extracellular exchange,co2_e,CO2 CO2,-1.0,-1.5541227788552017,0.6197822101806195
+EX_gly_e,Glycine exchange,Extracellular exchange,gly_e,Glycine,-1.0,0.3686488801661827,6.1964556597802725
+EX_hco3_e,EX hco3 LPAREN e RPAREN ,Extracellular exchange,hco3_e,Bicarbonate,-1.0,1.296395090018343,0.4087314195833672
+EX_ser__L_e,L-Serine exchange,Extracellular exchange,ser__L_e,L-Serine,-1.0,-0.2685280109854625,1.7864607521035976
+EX_ttdca_e,Tetradecanoate (n-C14:0) exchange,Extracellular exchange,ttdca_e,Tetradecanoate (n-C14:0),-1.0,-0.4994734661673812,499473466167.3813
+EX_tyr__L_e,L-Tyrosine exchange,Extracellular exchange,tyr__L_e,L-Tyrosine,-1.0,0.4554571362390241,0.3729700125175295
+EX_whttdca_e,Omega hydroxy tetradecanoate (n-C14:0) exchange,Extracellular exchange,whttdca_e,Omega hydroxy tetradecanoate (n-C14:0),-1.0,0.4477837803330931,447783780333.0931
+34HPPOR,4 Hydroxyphenylpyruvateoxygen oxidoreductase,Tyrosine metabolism,34hpp_c,3-(4-Hydroxyphenyl)pyruvate,-1.0,-0.4691934165230277,0.1091286517764729
+34HPPOR,4 Hydroxyphenylpyruvateoxygen oxidoreductase,Tyrosine metabolism,co2_c,CO2 CO2,1.0,-0.4691934165230277,0.1091286517764729
+34HPPOR,4 Hydroxyphenylpyruvateoxygen oxidoreductase,Tyrosine metabolism,hgentis_c,Homogentisate C8H7O4,1.0,-0.4691934165230277,0.1091286517764729
+34HPPOR,4 Hydroxyphenylpyruvateoxygen oxidoreductase,Tyrosine metabolism,o2_c,O2 O2,-1.0,-0.4691934165230277,0.1091286517764729
+ACACt2,Acetoacetate transport via proton symport,"Transport, Extracellular",acac_c,Acetoacetate,1.0,0.3924850325708031,21.838754479908385
+ACACt2,Acetoacetate transport via proton symport,"Transport, Extracellular",acac_e,Acetoacetate,-1.0,0.3924850325708031,21.838754479908385
+ACACt2,Acetoacetate transport via proton symport,"Transport, Extracellular",h_c,H+,1.0,0.3924850325708031,21.838754479908385
+ACACt2,Acetoacetate transport via proton symport,"Transport, Extracellular",h_e,H+,-1.0,0.3924850325708031,21.838754479908385
+EX_o2_e,O2 exchange,Extracellular exchange,o2_e,O2 O2,-1.0,0.7128768758342123,0.8485342663560931
+ARTFR41,R group artificial flux,R Group Synthesis,R4coa_hs_c,R group 4 Coenzyme A homo sapiens,1.0,0.397400566995281,1.996294681533872
+ARTFR41,R group artificial flux,R Group Synthesis,fad_m,Flavin adenine dinucleotide oxidized,1.0,0.397400566995281,1.996294681533872
+ARTFR41,R group artificial flux,R Group Synthesis,fadh2_m,Flavin adenine dinucleotide reduced,-1.0,0.397400566995281,1.996294681533872
+ARTFR41,R group artificial flux,R Group Synthesis,hdcoa_c,Hexadecenoyl-CoA (n-C16:1CoA),-1.0,0.397400566995281,1.996294681533872
+ARTFR12,R group artificial flux (C16:1),R Group Synthesis,R1coa_hs_c,R group 1 Coenzyme A homo sapiens,1.0,-0.3559859447519923,0.6124840177404214
+ARTFR12,R group artificial flux (C16:1),R Group Synthesis,fad_m,Flavin adenine dinucleotide oxidized,1.0,-0.3559859447519923,0.6124840177404214
+ARTFR12,R group artificial flux (C16:1),R Group Synthesis,fadh2_m,Flavin adenine dinucleotide reduced,-1.0,-0.3559859447519923,0.6124840177404214
+ARTFR12,R group artificial flux (C16:1),R Group Synthesis,hdcoa_c,Hexadecenoyl-CoA (n-C16:1CoA),-1.0,-0.3559859447519923,0.6124840177404214
+BDHm,"3-Hydroxybutanoate:NAD+ oxidoreductase, mitochondria",Butanoate Metabolism,acac_m,Acetoacetate,1.0,0.298468346771453,0.562157909224528
+BDHm,"3-Hydroxybutanoate:NAD+ oxidoreductase, mitochondria",Butanoate Metabolism,bhb_m,(R)-3-Hydroxybutanoate,-1.0,0.298468346771453,0.562157909224528
+BDHm,"3-Hydroxybutanoate:NAD+ oxidoreductase, mitochondria",Butanoate Metabolism,h_m,H+,1.0,0.298468346771453,0.562157909224528
+BDHm,"3-Hydroxybutanoate:NAD+ oxidoreductase, mitochondria",Butanoate Metabolism,nad_m,Nicotinamide adenine dinucleotide,-1.0,0.298468346771453,0.562157909224528
+BDHm,"3-Hydroxybutanoate:NAD+ oxidoreductase, mitochondria",Butanoate Metabolism,nadh_m,Nicotinamide adenine dinucleotide - reduced,1.0,0.298468346771453,0.562157909224528
+BHBt,(R)-3-Hydroxybutanoate transport via H+ symport,"Transport, Extracellular",bhb_c,(R)-3-Hydroxybutanoate,1.0,0.298468346771453,0.562157909224528
+BHBt,(R)-3-Hydroxybutanoate transport via H+ symport,"Transport, Extracellular",bhb_e,(R)-3-Hydroxybutanoate,-1.0,0.298468346771453,0.562157909224528
+BHBt,(R)-3-Hydroxybutanoate transport via H+ symport,"Transport, Extracellular",h_c,H+,1.0,0.298468346771453,0.562157909224528
+BHBt,(R)-3-Hydroxybutanoate transport via H+ symport,"Transport, Extracellular",h_e,H+,-1.0,0.298468346771453,0.562157909224528
+BHBtm,(R)-3-Hydroxybutanoate mitochondrial transport via H+ symport,"Transport, Mitochondrial",bhb_c,(R)-3-Hydroxybutanoate,-1.0,0.298468346771453,0.562157909224528
+BHBtm,(R)-3-Hydroxybutanoate mitochondrial transport via H+ symport,"Transport, Mitochondrial",bhb_m,(R)-3-Hydroxybutanoate,1.0,0.298468346771453,0.562157909224528
+BHBtm,(R)-3-Hydroxybutanoate mitochondrial transport via H+ symport,"Transport, Mitochondrial",h_c,H+,-1.0,0.298468346771453,0.562157909224528
+BHBtm,(R)-3-Hydroxybutanoate mitochondrial transport via H+ symport,"Transport, Mitochondrial",h_m,H+,1.0,0.298468346771453,0.562157909224528
+CO2t,CO2 transporter via diffusion,"Transport, Extracellular",co2_c,CO2 CO2,1.0,1.5541227788552017,0.6197822101806195
+CO2t,CO2 transporter via diffusion,"Transport, Extracellular",co2_e,CO2 CO2,-1.0,1.5541227788552017,0.6197822101806195
+FAH2,Fatty acid omega-hydroxylase,CYP Metabolism,h2o_c,H2O H2O,1.0,0.4477837803330931,447783780333.0931
+FAH2,Fatty acid omega-hydroxylase,CYP Metabolism,h_c,H+,-1.0,0.4477837803330931,447783780333.0931
+FAH2,Fatty acid omega-hydroxylase,CYP Metabolism,nadp_c,Nicotinamide adenine dinucleotide phosphate,1.0,0.4477837803330931,447783780333.0931
+FAH2,Fatty acid omega-hydroxylase,CYP Metabolism,nadph_c,Nicotinamide adenine dinucleotide phosphate - reduced,-1.0,0.4477837803330931,447783780333.0931
+FAH2,Fatty acid omega-hydroxylase,CYP Metabolism,o2_c,O2 O2,-1.0,0.4477837803330931,447783780333.0931
+FAH2,Fatty acid omega-hydroxylase,CYP Metabolism,ttdca_c,Tetradecanoate (n-C14:0),-1.0,0.4477837803330931,447783780333.0931
+FAH2,Fatty acid omega-hydroxylase,CYP Metabolism,whttdca_c,Omega hydroxy tetradecanoate (n-C14:0),1.0,0.4477837803330931,447783780333.0931
+FTHFDH,10-formyltetrahydrofolate:NADP+ oxidoreductase,Folate Metabolism,10fthf_c,10-Formyltetrahydrofolate,-1.0,0.4727461404145437,6.9633235350169
+FTHFDH,10-formyltetrahydrofolate:NADP+ oxidoreductase,Folate Metabolism,co2_c,CO2 CO2,1.0,0.4727461404145437,6.9633235350169
+FTHFDH,10-formyltetrahydrofolate:NADP+ oxidoreductase,Folate Metabolism,h2o_c,H2O H2O,-1.0,0.4727461404145437,6.9633235350169
+FTHFDH,10-formyltetrahydrofolate:NADP+ oxidoreductase,Folate Metabolism,h_c,H+,1.0,0.4727461404145437,6.9633235350169
+FTHFDH,10-formyltetrahydrofolate:NADP+ oxidoreductase,Folate Metabolism,nadp_c,Nicotinamide adenine dinucleotide phosphate,-1.0,0.4727461404145437,6.9633235350169
+FTHFDH,10-formyltetrahydrofolate:NADP+ oxidoreductase,Folate Metabolism,nadph_c,Nicotinamide adenine dinucleotide phosphate - reduced,1.0,0.4727461404145437,6.9633235350169
+FTHFDH,10-formyltetrahydrofolate:NADP+ oxidoreductase,Folate Metabolism,thf_c,"5,6,7,8-Tetrahydrofolate",1.0,0.4727461404145437,6.9633235350169
+FUM,Fumarase,Citric Acid Cycle,fum_c,Fumarate,-1.0,-0.4677489211162021,3.032992377506384
+FUM,Fumarase,Citric Acid Cycle,h2o_c,H2O H2O,-1.0,-0.4677489211162021,3.032992377506384
+FUM,Fumarase,Citric Acid Cycle,mal__L_c,L-Malate,1.0,-0.4677489211162021,3.032992377506384
+FUMAC,Fumarylacetoacetase,Tyrosine metabolism,4fumacac_c,4 Fumarylacetoacetate C8H6O6,-1.0,-0.4691934165230277,0.1091286517764729
+FUMAC,Fumarylacetoacetase,Tyrosine metabolism,acac_c,Acetoacetate,1.0,-0.4691934165230277,0.1091286517764729
+FUMAC,Fumarylacetoacetase,Tyrosine metabolism,fum_c,Fumarate,1.0,-0.4691934165230277,0.1091286517764729
+FUMAC,Fumarylacetoacetase,Tyrosine metabolism,h2o_c,H2O H2O,-1.0,-0.4691934165230277,0.1091286517764729
+FUMAC,Fumarylacetoacetase,Tyrosine metabolism,h_c,H+,1.0,-0.4691934165230277,0.1091286517764729
+FUMtm,"Fumarate transport, mitochondrial","Transport, Mitochondrial",fum_c,Fumarate,-1.0,-0.4488300726444469,0.3907894818176947
+FUMtm,"Fumarate transport, mitochondrial","Transport, Mitochondrial",fum_m,Fumarate,1.0,-0.4488300726444469,0.3907894818176947
+FUMtm,"Fumarate transport, mitochondrial","Transport, Mitochondrial",pi_c,Phosphate,1.0,-0.4488300726444469,0.3907894818176947
+FUMtm,"Fumarate transport, mitochondrial","Transport, Mitochondrial",pi_m,Phosphate,-1.0,-0.4488300726444469,0.3907894818176947
+GHMT2r,"Glycine hydroxymethyltransferase, reversible","Glycine, Serine, and Threonine Metabolism",gly_c,Glycine,1.0,0.4182686641161107,6.23085156795029
+GHMT2r,"Glycine hydroxymethyltransferase, reversible","Glycine, Serine, and Threonine Metabolism",h2o_c,H2O H2O,1.0,0.4182686641161107,6.23085156795029
+GHMT2r,"Glycine hydroxymethyltransferase, reversible","Glycine, Serine, and Threonine Metabolism",mlthf_c,"5,10-Methylenetetrahydrofolate",1.0,0.4182686641161107,6.23085156795029
+GHMT2r,"Glycine hydroxymethyltransferase, reversible","Glycine, Serine, and Threonine Metabolism",ser__L_c,L-Serine,-1.0,0.4182686641161107,6.23085156795029
+GHMT2r,"Glycine hydroxymethyltransferase, reversible","Glycine, Serine, and Threonine Metabolism",thf_c,"5,6,7,8-Tetrahydrofolate",-1.0,0.4182686641161107,6.23085156795029
+H2CO3D,Carboxylic acid dissociation,Miscellaneous,co2_c,CO2 CO2,-1.0,1.296395090018343,0.4087314195833672
+H2CO3D,Carboxylic acid dissociation,Miscellaneous,h2co3_c,Carbonic acid,1.0,1.296395090018343,0.4087314195833672
+H2CO3D,Carboxylic acid dissociation,Miscellaneous,h2o_c,H2O H2O,-1.0,1.296395090018343,0.4087314195833672
+H2CO3D2,Carboxylic acid dissociation,Miscellaneous,h2co3_c,Carbonic acid,1.0,-1.296395090018343,0.4087314195833672
+H2CO3D2,Carboxylic acid dissociation,Miscellaneous,h_c,H+,-1.0,-1.296395090018343,0.4087314195833672
+H2CO3D2,Carboxylic acid dissociation,Miscellaneous,hco3_c,Bicarbonate,-1.0,-1.296395090018343,0.4087314195833672
+H2Otm,H2O transport  mitochondrial,"Transport, Mitochondrial",h2o_c,H2O H2O,-1.0,0.2850188477112956,0.827528392053086
+H2Otm,H2O transport  mitochondrial,"Transport, Mitochondrial",h2o_m,H2O H2O,1.0,0.2850188477112956,0.827528392053086
+HGNTOR,Homogentisateoxygen 1 2 oxidoreductase  decyclizing ,Tyrosine metabolism,4mlacac_c,4 Maleylacetoacetate C8H6O6,1.0,-0.4691934165230277,0.1091286517764729
+HGNTOR,Homogentisateoxygen 1 2 oxidoreductase  decyclizing ,Tyrosine metabolism,h_c,H+,1.0,-0.4691934165230277,0.1091286517764729
+HGNTOR,Homogentisateoxygen 1 2 oxidoreductase  decyclizing ,Tyrosine metabolism,hgentis_c,Homogentisate C8H7O4,-1.0,-0.4691934165230277,0.1091286517764729
+HGNTOR,Homogentisateoxygen 1 2 oxidoreductase  decyclizing ,Tyrosine metabolism,o2_c,O2 O2,-1.0,-0.4691934165230277,0.1091286517764729
+ALATA_L,L-alanine transaminase,Glutamate metabolism,akg_c,2-Oxoglutarate,-1.0,0.7411252058010993,0.6413670667850017
+ALATA_L,L-alanine transaminase,Glutamate metabolism,ala__L_c,L-Alanine,-1.0,0.7411252058010993,0.6413670667850017
+ALATA_L,L-alanine transaminase,Glutamate metabolism,glu__L_c,L-Glutamate,1.0,0.7411252058010993,0.6413670667850017
+ALATA_L,L-alanine transaminase,Glutamate metabolism,pyr_c,Pyruvate,1.0,0.7411252058010993,0.6413670667850017
+ALAtN1,"Alanine transport (Na, H coupled)","Transport, Extracellular",ala__L_c,L-Alanine,1.0,0.576058730817723,0.254106629395372
+ALAtN1,"Alanine transport (Na, H coupled)","Transport, Extracellular",ala__L_e,L-Alanine,-1.0,0.576058730817723,0.254106629395372
+ALAtN1,"Alanine transport (Na, H coupled)","Transport, Extracellular",h_c,H+,-1.0,0.576058730817723,0.254106629395372
+ALAtN1,"Alanine transport (Na, H coupled)","Transport, Extracellular",h_e,H+,1.0,0.576058730817723,0.254106629395372
+ALAtN1,"Alanine transport (Na, H coupled)","Transport, Extracellular",na1_c,Sodium,2.0,0.576058730817723,0.254106629395372
+ALAtN1,"Alanine transport (Na, H coupled)","Transport, Extracellular",na1_e,Sodium,-2.0,0.576058730817723,0.254106629395372
+MACACI,Maleylacetoacetate isomerase,Tyrosine metabolism,4fumacac_c,4 Fumarylacetoacetate C8H6O6,1.0,-0.4691934165230277,0.1091286517764729
+MACACI,Maleylacetoacetate isomerase,Tyrosine metabolism,4mlacac_c,4 Maleylacetoacetate C8H6O6,-1.0,-0.4691934165230277,0.1091286517764729
+MALtm,Malate transport  mitochondrial,"Transport, Mitochondrial",mal__L_c,L-Malate,-1.0,0.4801381896687916,0.5570365812840392
+MALtm,Malate transport  mitochondrial,"Transport, Mitochondrial",mal__L_m,L-Malate,1.0,0.4801381896687916,0.5570365812840392
+MALtm,Malate transport  mitochondrial,"Transport, Mitochondrial",pi_c,Phosphate,1.0,0.4801381896687916,0.5570365812840392
+MALtm,Malate transport  mitochondrial,"Transport, Mitochondrial",pi_m,Phosphate,-1.0,0.4801381896687916,0.5570365812840392
+MTHFC,Methenyltetrahydrofolate cyclohydrolase,Folate Metabolism,10fthf_c,10-Formyltetrahydrofolate,1.0,0.4727461404145437,6.9633235350169
+MTHFC,Methenyltetrahydrofolate cyclohydrolase,Folate Metabolism,h2o_c,H2O H2O,-1.0,0.4727461404145437,6.9633235350169
+MTHFC,Methenyltetrahydrofolate cyclohydrolase,Folate Metabolism,h_c,H+,1.0,0.4727461404145437,6.9633235350169
+MTHFC,Methenyltetrahydrofolate cyclohydrolase,Folate Metabolism,methf_c,"5,10-Methenyltetrahydrofolate",-1.0,0.4727461404145437,6.9633235350169
+MTHFD2i,Methylenetetrahydrofolate dehydrogenase  NAD ,Folate Metabolism,methf_c,"5,10-Methenyltetrahydrofolate",1.0,0.3061956497241572,2.26566111535016
+MTHFD2i,Methylenetetrahydrofolate dehydrogenase  NAD ,Folate Metabolism,mlthf_c,"5,10-Methylenetetrahydrofolate",-1.0,0.3061956497241572,2.26566111535016
+MTHFD2i,Methylenetetrahydrofolate dehydrogenase  NAD ,Folate Metabolism,nad_c,Nicotinamide adenine dinucleotide,-1.0,0.3061956497241572,2.26566111535016
+MTHFD2i,Methylenetetrahydrofolate dehydrogenase  NAD ,Folate Metabolism,nadh_c,Nicotinamide adenine dinucleotide - reduced,1.0,0.3061956497241572,2.26566111535016
+ME2,Malic enzyme (NADP),Pyruvate Metabolism,co2_c,CO2 CO2,1.0,-0.4240705673651772,0.3328114895999857
+ME2,Malic enzyme (NADP),Pyruvate Metabolism,mal__L_c,L-Malate,-1.0,-0.4240705673651772,0.3328114895999857
+ME2,Malic enzyme (NADP),Pyruvate Metabolism,nadp_c,Nicotinamide adenine dinucleotide phosphate,-1.0,-0.4240705673651772,0.3328114895999857
+ME2,Malic enzyme (NADP),Pyruvate Metabolism,nadph_c,Nicotinamide adenine dinucleotide phosphate - reduced,1.0,-0.4240705673651772,0.3328114895999857
+ME2,Malic enzyme (NADP),Pyruvate Metabolism,pyr_c,Pyruvate,1.0,-0.4240705673651772,0.3328114895999857
+O2t,O2 transport  diffusion ,"Transport, Extracellular",o2_c,O2 O2,1.0,-0.7128768758342123,0.8485342663560931
+O2t,O2 transport  diffusion ,"Transport, Extracellular",o2_e,O2 O2,-1.0,-0.7128768758342123,0.8485342663560931
+P5CRxm,Pyrroline-5-carboxylate reductase (m),Arginine and Proline Metabolism,1pyr5c_m,1-Pyrroline-5-carboxylate,-1.0,0.2363969258999614,1.490252946959042
+P5CRxm,Pyrroline-5-carboxylate reductase (m),Arginine and Proline Metabolism,h_m,H+,-2.0,0.2363969258999614,1.490252946959042
+P5CRxm,Pyrroline-5-carboxylate reductase (m),Arginine and Proline Metabolism,nad_m,Nicotinamide adenine dinucleotide,1.0,0.2363969258999614,1.490252946959042
+P5CRxm,Pyrroline-5-carboxylate reductase (m),Arginine and Proline Metabolism,nadh_m,Nicotinamide adenine dinucleotide - reduced,-1.0,0.2363969258999614,1.490252946959042
+P5CRxm,Pyrroline-5-carboxylate reductase (m),Arginine and Proline Metabolism,pro__L_m,L-Proline,1.0,0.2363969258999614,1.490252946959042
+PROD2m,Proline dehydrogenase (m),Arginine and Proline Metabolism,1pyr5c_m,1-Pyrroline-5-carboxylate,1.0,0.2363969258999615,1.406045084130037
+PROD2m,Proline dehydrogenase (m),Arginine and Proline Metabolism,fad_m,Flavin adenine dinucleotide oxidized,-1.0,0.2363969258999615,1.406045084130037
+PROD2m,Proline dehydrogenase (m),Arginine and Proline Metabolism,fadh2_m,Flavin adenine dinucleotide reduced,1.0,0.2363969258999615,1.406045084130037
+PROD2m,Proline dehydrogenase (m),Arginine and Proline Metabolism,h_m,H+,1.0,0.2363969258999615,1.406045084130037
+PROD2m,Proline dehydrogenase (m),Arginine and Proline Metabolism,pro__L_m,L-Proline,-1.0,0.2363969258999615,1.406045084130037
+PROt2r,L proline reversible transport via proton symport,"Transport, Extracellular",h_c,H+,1.0,0.2277304112241965,0.4542558043457684
+PROt2r,L proline reversible transport via proton symport,"Transport, Extracellular",h_e,H+,-1.0,0.2277304112241965,0.4542558043457684
+PROt2r,L proline reversible transport via proton symport,"Transport, Extracellular",pro__L_c,L-Proline,1.0,0.2277304112241965,0.4542558043457684
+PROt2r,L proline reversible transport via proton symport,"Transport, Extracellular",pro__L_e,L-Proline,-1.0,0.2277304112241965,0.4542558043457684
+PROt4_2_r,PROt4 LPAREN 2 RPAREN r,"Transport, Extracellular",na1_c,Sodium,2.0,-0.2288558289249591,0.4172913925223249
+PROt4_2_r,PROt4 LPAREN 2 RPAREN r,"Transport, Extracellular",na1_e,Sodium,-2.0,-0.2288558289249591,0.4172913925223249
+PROt4_2_r,PROt4 LPAREN 2 RPAREN r,"Transport, Extracellular",pro__L_c,L-Proline,1.0,-0.2288558289249591,0.4172913925223249
+PROt4_2_r,PROt4 LPAREN 2 RPAREN r,"Transport, Extracellular",pro__L_e,L-Proline,-1.0,-0.2288558289249591,0.4172913925223249
+RTOT1,R total flux,R Group Synthesis,R1coa_hs_c,R group 1 Coenzyme A homo sapiens,-1.0,-0.3107574696469901,0.6617184249262981
+RTOT1,R total flux,R Group Synthesis,Rtotalcoa_c,Rtotalcoa c,1.0,-0.3107574696469901,0.6617184249262981
+RTOT4,R total flux,R Group Synthesis,R4coa_hs_c,R group 4 Coenzyme A homo sapiens,-1.0,0.3993014635588556,2.001060284036051
+RTOT4,R total flux,R Group Synthesis,Rtotalcoa_c,Rtotalcoa c,1.0,0.3993014635588556,2.001060284036051
+THRGLYexR,L-threonine/glycine reversible exchange,"Transport, Extracellular",gly_c,Glycine,-1.0,0.288171464897656,4.091127610699338
+THRGLYexR,L-threonine/glycine reversible exchange,"Transport, Extracellular",gly_e,Glycine,1.0,0.288171464897656,4.091127610699338
+THRGLYexR,L-threonine/glycine reversible exchange,"Transport, Extracellular",thr__L_c,L-Threonine,1.0,0.288171464897656,4.091127610699338
+THRGLYexR,L-threonine/glycine reversible exchange,"Transport, Extracellular",thr__L_e,L-Threonine,-1.0,0.288171464897656,4.091127610699338
+TTDCAtr_copy2,Fatty acid transport,"Transport, Extracellular",ttdca_c,Tetradecanoate (n-C14:0),1.0,0.4994734661673812,499473466167.3813
+TTDCAtr_copy2,Fatty acid transport,"Transport, Extracellular",ttdca_e,Tetradecanoate (n-C14:0),-1.0,0.4994734661673812,499473466167.3813
+TYRTA,Tyrosine transaminase,Tyrosine metabolism,34hpp_c,3-(4-Hydroxyphenyl)pyruvate,1.0,-0.4691934165230277,0.1091286517764729
+TYRTA,Tyrosine transaminase,Tyrosine metabolism,akg_c,2-Oxoglutarate,-1.0,-0.4691934165230277,0.1091286517764729
+TYRTA,Tyrosine transaminase,Tyrosine metabolism,glu__L_c,L-Glutamate,1.0,-0.4691934165230277,0.1091286517764729
+TYRTA,Tyrosine transaminase,Tyrosine metabolism,tyr__L_c,L-Tyrosine,-1.0,-0.4691934165230277,0.1091286517764729
+TYRt4,L-tyrosine transport in via sodium symport,"Transport, Extracellular",na1_c,Sodium,1.0,-0.4554571362390241,0.3729700125175295
+TYRt4,L-tyrosine transport in via sodium symport,"Transport, Extracellular",na1_e,Sodium,-1.0,-0.4554571362390241,0.3729700125175295
+TYRt4,L-tyrosine transport in via sodium symport,"Transport, Extracellular",tyr__L_c,L-Tyrosine,1.0,-0.4554571362390241,0.3729700125175295
+TYRt4,L-tyrosine transport in via sodium symport,"Transport, Extracellular",tyr__L_e,L-Tyrosine,-1.0,-0.4554571362390241,0.3729700125175295
+UMPK4,UMP kinase (GTP),Nucleotides,gdp_c,GDP C10H12N5O11P2,1.0,0.2442302582928651,0.0313545504508115
+UMPK4,UMP kinase (GTP),Nucleotides,gtp_c,GTP C10H12N5O14P3,-1.0,0.2442302582928651,0.0313545504508115
+UMPK4,UMP kinase (GTP),Nucleotides,udp_c,UDP C9H11N2O12P2,1.0,0.2442302582928651,0.0313545504508115
+UMPK4,UMP kinase (GTP),Nucleotides,ump_c,UMP C9H11N2O9P,-1.0,0.2442302582928651,0.0313545504508115
+WHTTDCAte,Xenobiotic transport,"Transport, Extracellular",whttdca_c,Omega hydroxy tetradecanoate (n-C14:0),1.0,-0.4477837803330931,447783780333.0931
+WHTTDCAte,Xenobiotic transport,"Transport, Extracellular",whttdca_e,Omega hydroxy tetradecanoate (n-C14:0),-1.0,-0.4477837803330931,447783780333.0931

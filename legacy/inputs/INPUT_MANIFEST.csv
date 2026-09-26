@@ -1,0 +1,14 @@
+path_or_item,status,purpose,provenance
+iMM1415.json,Required,Mouse genome-scale metabolic model used in manuscript,User-supplied / archive with manuscript
+expanded_diet_bounds_flat.json,Required,Diet-specific exchange bounds for SCD/HFD/KD/WD,Project input
+mouse_entrez_to_symbol.csv,Required,Mouse gene symbol <-> Entrez mapping,Project input
+GSEMERGED_SCD_HFD_KD_WD_gene_expression.csv,Required,RQ1 merged liver expression matrix; 99 samples,"Derived from GSE101657, GSE159090, GSE160646, GSE188344, GSE246221, GSE248297"
+data/GSE182668/male-<STRAIN>-GSE182668_HFD_SCD_gene_expression.csv,Required,RQ2 per-strain expression; 9 founder strains,Derived from GSE182668
+RQ3_SINGLE_CELL_EXPRESSION.csv,Required,RQ3 single-cell expression matrix,Use exact manuscript production input
+RQ3_SINGLE_CELL_METADATA.csv,Required,RQ3 single-cell metadata,Use exact manuscript production input
+data/Meta_GSE104913.csv,Required,RQ4 metatranscriptomic species activity table,Derived project input
+AGORA2_mat/,Required,AGORA2 organism models (.mat),External resource; not redistributed here
+configs/curated_species_to_agora_REVIEWED_v3.csv,Included,Reviewed 57-species mapping draft,Included configuration snapshot
+iJO1366.json,Optional,External E. coli 13C-MFA benchmark model,Only for optional benchmark_ecoli stage
+Bhadra-Lobo benchmark archive,Optional,E. coli transcriptome/uptake benchmark source,Only for optional benchmark_ecoli stage
+Gerosa mmc2.xlsx,Optional,13C-MFA measured module fluxes,Only for optional benchmark_ecoli stage
