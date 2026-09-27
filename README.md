@@ -1,5 +1,5 @@
 # Multi-scale constraint-based modeling of hepatic metabolic adaptation to diet
-
+[![DOI](https://zenodo.org/badge/1389885734.svg)](https://doi.org/10.5281/zenodo.22984390)
 Code, inputs, and frozen results for
 
 > Madadjim R, Vechetti I, Cui J. *Multi-scale constraint-based modeling reveals conserved and
